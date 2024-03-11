@@ -1,269 +1,52 @@
 [
   {
-    "objectID": "research/working-papers/heiss-ye-np-causal-inference/index.html",
-    "href": "research/working-papers/heiss-ye-np-causal-inference/index.html",
-    "title": "Clarifying Correlation and Causation: A Guide to Modern Quantitative Causal Inference in Nonprofit Studies",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
     "section": "",
-    "text": "GitHub repository"
+    "text": "My primary research areas include mixed methods research, psychometrics, organizational behavior, and consumer behavior. I do research in topics like teamwork, materialism, frugality, self-control, and life’s satisfaction."
   },
   {
-    "objectID": "research/working-papers/heiss-ye-np-causal-inference/index.html#important-links",
-    "href": "research/working-papers/heiss-ye-np-causal-inference/index.html#important-links",
-    "title": "Clarifying Correlation and Causation: A Guide to Modern Quantitative Causal Inference in Nonprofit Studies",
+    "objectID": "research/index.html#journal-articles",
+    "href": "research/index.html#journal-articles",
+    "title": "Research",
+    "section": "Journal articles",
+    "text": "Journal articles\n\n\n\n    \n        \n            \n                Manuel Castañón-Puga, Ricardo Fernando Rosales-Cisneros, Julio C. Acosta-Prado, Alfredo Tirado-Ramos, Camilo Khatchikian, and Elías Aburto-Camacllanqui, “Earned Value Management Agent-Based Simulation Model 11, no. 2 (2023):86, doi: 10.3390/systems11020086\n            \n\n            \n            \n                \n                    \n                            agile development\n                        \n                    \n                    \n                            earned value management\n                        \n                    \n                    \n                            task board\n                        \n                    \n                    \n                            agent-based simulation\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                Julio C. Acosta-Prado, Rodrigo A. Zárate-Torres, and Elías Aburto-Camacllanqui, “La intención emprendedora en estudiantes de maestría en administración de empresas de universidades colombianas: el rol moderador del control del comportamiento percibido 16, no. 3 (2023):31–40, doi: 10.4067/S0718-50062023000300031\n            \n\n            \n            \n                \n                    \n                            entrepreneurial intention\n                        \n                    \n                    \n                            perceived behavioral control\n                        \n                    \n                    \n                            master of business administration\n                        \n                    \n                    \n                            MBA students\n                        \n                    \n                    \n                            theory of planned behavior\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/articles/agentbased-aburto-2023/index.html",
+    "href": "research/articles/agentbased-aburto-2023/index.html",
+    "title": "Earned Value Management Agent-Based Simulation Model",
     "section": "",
-    "text": "GitHub repository"
+    "text": "Agile project management (APM) can be defined as an iterative approach that promotes satisfying customer requirements, adjusts to change, and develops a working product in rapidly changing environments. Managers usually apply agile management as the project management approach in projects requiring extraordinary speed and flexibility in their processes. Earned value management (EVM) is a fundamental part of project management to establish practical measures. Often, managers use a task board to visually represent the work on a project and the path to completion. Still, managing an agile project can be a challenging endeavor. In this paper, we propose an agent-based model describing the management of tasks within a project using earned value assessment and a task board. Our model illustrates how EVM yields an efficient method to measure a project’s performance by comparing actual progress against planned activities, thus facilitating the formulation of more accurate predicted estimations. As proof of concept, we leverage our implementation to calculate EVM performance indexes according to a performance measurement baseline (PMB) in a task board fashion."
   },
   {
-    "objectID": "research/working-papers/heiss-ye-np-causal-inference/index.html#abstract",
-    "href": "research/working-papers/heiss-ye-np-causal-inference/index.html#abstract",
-    "title": "Clarifying Correlation and Causation: A Guide to Modern Quantitative Causal Inference in Nonprofit Studies",
-    "section": "Abstract",
-    "text": "Abstract\nDiscovering causal relationships and testing theoretical mechanisms is a core endeavor of social science. Randomized experiments have long served as a gold standard for making valid causal inferences, but most of the data social scientists work with is observational and non-experimental. However, with newer methodological developments in economics, political science, epidemiology, and other disciplines, an increasing number of studies in social science make causal claims with observational data. As a newer interdisciplinary field, however, nonprofit studies has lagged behind other disciplines in its use of observational causal inference. In this article, we present a hands-on introduction and guide to design-based observational causal inference methods. We first review and categorize all studies making causal claims in top nonprofit studies journals over the past decade to illustrate the field’s current of experimental and observational approaches to causal inference. We then introduce a framework for modeling and identifying causal processes using directed acyclic graphs (DAGs) and provide a walk-through of the assumptions and procedures for making inferences with a range of different methods, including matching, inverse probability weighting, difference-in-differences, regression discontinuity designs, and instrumental variables. We illustrate each approach with synthetic and empirical examples and provide sample R and Stata code for implementing these methods. We conclude by encouraging scholars and practitioners to make more careful and explicit causal claims in their observational empirical research, collectively developing and improving quantitative work in the broader field of nonprofit studies."
-  },
-  {
-    "objectID": "research/working-papers/heiss-program-capture-ingos/index.html",
-    "href": "research/working-papers/heiss-program-capture-ingos/index.html",
-    "title": "‘Some State Officials Want Your Services’: International NGO Responses to Authoritarian Program Capture Regulations",
+    "objectID": "research/articles/agentbased-aburto-2023/index.html#abstract",
+    "href": "research/articles/agentbased-aburto-2023/index.html#abstract",
+    "title": "Earned Value Management Agent-Based Simulation Model",
     "section": "",
-    "text": "GitHub repository"
+    "text": "Agile project management (APM) can be defined as an iterative approach that promotes satisfying customer requirements, adjusts to change, and develops a working product in rapidly changing environments. Managers usually apply agile management as the project management approach in projects requiring extraordinary speed and flexibility in their processes. Earned value management (EVM) is a fundamental part of project management to establish practical measures. Often, managers use a task board to visually represent the work on a project and the path to completion. Still, managing an agile project can be a challenging endeavor. In this paper, we propose an agent-based model describing the management of tasks within a project using earned value assessment and a task board. Our model illustrates how EVM yields an efficient method to measure a project’s performance by comparing actual progress against planned activities, thus facilitating the formulation of more accurate predicted estimations. As proof of concept, we leverage our implementation to calculate EVM performance indexes according to a performance measurement baseline (PMB) in a task board fashion."
   },
   {
-    "objectID": "research/working-papers/heiss-program-capture-ingos/index.html#important-links",
-    "href": "research/working-papers/heiss-program-capture-ingos/index.html#important-links",
-    "title": "‘Some State Officials Want Your Services’: International NGO Responses to Authoritarian Program Capture Regulations",
-    "section": "",
-    "text": "GitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/heiss-mission-money-environment/index.html",
-    "href": "research/working-papers/heiss-mission-money-environment/index.html",
-    "title": "‘We Changed Our Strategy… Without Losing Our Values, Vision and Mission’: Mission, Money, and the Practical Operating Environment for International NGOs",
-    "section": "",
-    "text": "GitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/heiss-mission-money-environment/index.html#important-links",
-    "href": "research/working-papers/heiss-mission-money-environment/index.html#important-links",
-    "title": "‘We Changed Our Strategy… Without Losing Our Values, Vision and Mission’: Mission, Money, and the Practical Operating Environment for International NGOs",
-    "section": "",
-    "text": "GitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/chaudhry-heiss-ngos-aid/index.html",
-    "href": "research/working-papers/chaudhry-heiss-ngos-aid/index.html",
-    "title": "Are Donors Really Responding? Analyzing the Impact of Global Restrictions on NGOs",
-    "section": "",
-    "text": "Paper (preprint)\nSupplement (preprint)\nStatistical analysis notebook\nGitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/chaudhry-heiss-ngos-aid/index.html#important-links",
-    "href": "research/working-papers/chaudhry-heiss-ngos-aid/index.html#important-links",
-    "title": "Are Donors Really Responding? Analyzing the Impact of Global Restrictions on NGOs",
-    "section": "",
-    "text": "Paper (preprint)\nSupplement (preprint)\nStatistical analysis notebook\nGitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/chaudhry-heiss-ngos-aid/index.html#abstract",
-    "href": "research/working-papers/chaudhry-heiss-ngos-aid/index.html#abstract",
-    "title": "Are Donors Really Responding? Analyzing the Impact of Global Restrictions on NGOs",
-    "section": "Abstract",
-    "text": "Abstract\nForeign donors routinely use nongovernmental organizations (NGOs) to deliver foreign aid. However, states are increasingly relying on repressive legislation to crack down on NGOs within their borders. How have foreign aid donors responded to this legal crackdown on NGOs? Using original data from all countries that received aid from 1981–2012, we assess the impact of anti-NGO laws on total flows of official foreign aid, the nature of projects funded, and the channels used for distributing this aid. Overall, we find that donors scale back their operations in repressive countries. However, rather than completely withdraw, we find that donors redirect funds within restrictive countries by decreasing funds for politically sensitive issues, and channeling more aid through domestic rather than foreign NGOs. While our findings challenge existing notions of foreign aid running on “autopilot,” they also have worrying implications for Western donors and domestic NGOs working on contentious issues."
-  },
-  {
-    "objectID": "research/working-papers/chaudhry-heiss-ngos-aid/index.html#figure",
-    "href": "research/working-papers/chaudhry-heiss-ngos-aid/index.html#figure",
-    "title": "Are Donors Really Responding? Analyzing the Impact of Global Restrictions on NGOs",
-    "section": "Figure",
-    "text": "Figure\nFigure 5: Predicted ODA (foreign aid) across a range of differences from average number of anti-NGO laws in an average country; dark line shows average of 500 draws from posterior distribution.\n\n\n\nFigure 5: Predicted ODA (foreign aid) across a range of differences from average number of anti-NGO laws in an average country; dark line shows average of 500 draws from posterior distribution."
-  },
-  {
-    "objectID": "research/working-papers/chaudhry-heiss-ngos-aid/index.html#bibtex-citation",
-    "href": "research/working-papers/chaudhry-heiss-ngos-aid/index.html#bibtex-citation",
-    "title": "Are Donors Really Responding? Analyzing the Impact of Global Restrictions on NGOs",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@unpublished{ChaudhryHeiss:2023,\n    Author = {Suparna Chaudhry and Andrew Heiss},\n    Note = {Working paper},\n    Title = {Are Donors Really Responding? Analyzing the Impact of Global Restrictions on {NGO}s},\n    Year = {2023}}"
-  },
-  {
-    "objectID": "research/working-papers/chaudhry-dotson-heiss-why-donors-donate/index.html",
-    "href": "research/working-papers/chaudhry-dotson-heiss-why-donors-donate/index.html",
-    "title": "Why Donors Donate: Disentangling Organizational and Structural Heuristics for International Philanthropy",
-    "section": "",
-    "text": "GitHub repository\nExperiment preregistration (research question #1)"
-  },
-  {
-    "objectID": "research/working-papers/chaudhry-dotson-heiss-why-donors-donate/index.html#important-links",
-    "href": "research/working-papers/chaudhry-dotson-heiss-why-donors-donate/index.html#important-links",
-    "title": "Why Donors Donate: Disentangling Organizational and Structural Heuristics for International Philanthropy",
-    "section": "",
-    "text": "GitHub repository\nExperiment preregistration (research question #1)"
-  },
-  {
-    "objectID": "research/working-papers/chaudhry-dotson-heiss-why-donors-donate/index.html#abstract",
-    "href": "research/working-papers/chaudhry-dotson-heiss-why-donors-donate/index.html#abstract",
-    "title": "Why Donors Donate: Disentangling Organizational and Structural Heuristics for International Philanthropy",
-    "section": "Abstract",
-    "text": "Abstract\nAs space for civil society has closed around the world, transnational NGOs have faced a crisis of funding. We explore how NGOs have shifted from traditionally Northern funding sources toward grassroots private philanthropic money. How do individual donors in the US feel about donating to legally besieged NGOs abroad? Do legal restrictions on NGOs influence donors’ decision to donate? We use a conjoint survey experiment to argue that domestic political environments of NGO host countries influence preferences of private donors and that legal crackdowns on NGOs serve as a heuristic of organizational deservingness."
-  },
-  {
-    "objectID": "research/working-papers/arel-bundock-greifer-heiss-mfxplainer/index.html",
-    "href": "research/working-papers/arel-bundock-greifer-heiss-mfxplainer/index.html",
-    "title": "The Marginal Effects Zoo: A Guide to Interpretation Using marginaleffects for R",
-    "section": "",
-    "text": "GitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/arel-bundock-greifer-heiss-mfxplainer/index.html#important-links",
-    "href": "research/working-papers/arel-bundock-greifer-heiss-mfxplainer/index.html#important-links",
-    "title": "The Marginal Effects Zoo: A Guide to Interpretation Using marginaleffects for R",
-    "section": "",
-    "text": "GitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/arel-bundock-greifer-heiss-mfxplainer/index.html#abstract",
-    "href": "research/working-papers/arel-bundock-greifer-heiss-mfxplainer/index.html#abstract",
-    "title": "The Marginal Effects Zoo: A Guide to Interpretation Using marginaleffects for R",
-    "section": "Abstract",
-    "text": "Abstract\nAnalysts often transform their models’ parameter estimates to report more meaningful and interpretable quantities of interest. This article presents a simple conceptual framework to describe a vast array of estimands which are reported under imprecise and inconsistent terminology across disciplines: predictions, marginal predictions, marginal means, marginal effects, conditional effects, slopes, contrasts, risk ratios, etc. We introduce marginaleffects, an R package which offers a simple and powerful interface to compute all of those quantites, and to conduct hypothesis tests on them. marginaleffects is lightweight; extensible; it works well in combination with other R packages; and it supports over 70 classes of models, including Generalized Linear, Generalized Additive, Mixed Effects, and Bayesian models."
-  },
-  {
-    "objectID": "research/reviews/heiss-death-idealism/index.html",
-    "href": "research/reviews/heiss-death-idealism/index.html",
-    "title": "What Kills Idealism? Review of The Death of Idealism: Development and Anti-Politics in the Peace Corps, by Meghan Elizabeth Kallman",
-    "section": "",
-    "text": "Add to Zotero \n\n@article{Heiss:20211,\n    author = {Andrew Heiss},\n    doi = {10.1177/00943061211050046g},\n    journal = {Contemporary Sociology},\n    number = {6},\n    pages = {486--488},\n    titleaddon = {\\bibstring{reviewof} Meghan Elizabeth Kallman, \\mkbibemph{The Death of Idealism: Development and Anti-Politics in the Peace Corps}},\n    volume = {50},\n    year = {2021}}"
-  },
-  {
-    "objectID": "research/reviews/heiss-death-idealism/index.html#citation",
-    "href": "research/reviews/heiss-death-idealism/index.html#citation",
-    "title": "What Kills Idealism? Review of The Death of Idealism: Development and Anti-Politics in the Peace Corps, by Meghan Elizabeth Kallman",
-    "section": "",
-    "text": "Add to Zotero \n\n@article{Heiss:20211,\n    author = {Andrew Heiss},\n    doi = {10.1177/00943061211050046g},\n    journal = {Contemporary Sociology},\n    number = {6},\n    pages = {486--488},\n    titleaddon = {\\bibstring{reviewof} Meghan Elizabeth Kallman, \\mkbibemph{The Death of Idealism: Development and Anti-Politics in the Peace Corps}},\n    volume = {50},\n    year = {2021}}"
-  },
-  {
-    "objectID": "research/chapters/johnson-heiss-2018/index.html",
-    "href": "research/chapters/johnson-heiss-2018/index.html",
-    "title": "Liberal Institutionalism",
-    "section": "",
-    "text": "Liberal institutionalism presumes that domestic and international institutions play central roles in facilitating cooperation and peace between states. But currently, this influential approach to thinking and practice appears to be in jeopardy. The United Kingdom seeks to be the first state ever to withdraw from the European Union (EU). The United States threatens to renegotiate or leave several international arrangements that it has recently signed or long supported. Meanwhile, China hints that it would be happy to take on greater global leadership if the United States retreats from this traditional role."
-  },
-  {
-    "objectID": "research/chapters/johnson-heiss-2018/index.html#abstract",
-    "href": "research/chapters/johnson-heiss-2018/index.html#abstract",
-    "title": "Liberal Institutionalism",
-    "section": "",
-    "text": "Liberal institutionalism presumes that domestic and international institutions play central roles in facilitating cooperation and peace between states. But currently, this influential approach to thinking and practice appears to be in jeopardy. The United Kingdom seeks to be the first state ever to withdraw from the European Union (EU). The United States threatens to renegotiate or leave several international arrangements that it has recently signed or long supported. Meanwhile, China hints that it would be happy to take on greater global leadership if the United States retreats from this traditional role."
-  },
-  {
-    "objectID": "research/chapters/johnson-heiss-2018/index.html#citation",
-    "href": "research/chapters/johnson-heiss-2018/index.html#citation",
-    "title": "Liberal Institutionalism",
+    "objectID": "research/articles/agentbased-aburto-2023/index.html#citation",
+    "href": "research/articles/agentbased-aburto-2023/index.html#citation",
+    "title": "Earned Value Management Agent-Based Simulation Model",
     "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@incollection{JohnsonHeiss:2018,\n    Address = {London},\n    Author = {Tana Johnson and Andrew Heiss},\n    Booktitle = {International Organization and Global Governance},\n    Chapter = {8},\n    Doi = {10.4324/9781315301914},\n    Edition = {2},\n    Editor = {Thomas G. Weiss and Rorden Wilkinson},\n    Pages = {123--34},\n    Publisher = {Routledge},\n    Title = {Liberal Institutionalism},\n    Year = {2018}}"
+    "text": "Citation\n\n Add to Zotero \n\n@article{CastanonEtAl:2023,\n    Author = {Manuel Castañón-Puga, Ricardo Fernando Rosales-Cisneros, Julio C. Acosta-Prado, Alfredo Tirado-Ramos, Camilo Khatchikian, and Elías Aburto-Camacllanqui},\n    Doi = {10.4067/S0718-50062023000300031},\n    Journal = {Systems},\n    Number = {2},\n    Pages = {86},\n    Title = {Earned Value Management Agent-Based Simulation Model},\n    Volume = {11},\n    Year = {2023}}"
   },
   {
-    "objectID": "research/chapters/heiss-causal-inference-2021/index.html",
-    "href": "research/chapters/heiss-causal-inference-2021/index.html",
-    "title": "Causal Inference",
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitæ",
     "section": "",
-    "text": "One of the most repeated phrases in any introductory statistics class is the warning that “correlation is not causation.” This chapter presents new non-statistical language for creating, measuring, and evaluating causal stories and relationships using observational (i.e. non-experimental) data. It introduces the concept of causal directed acyclic graphs (DAGs) that allow us to formally encode our understanding of causal stories. With well-crafted DAGs, one can use a set of rules called do-calculus to make specific adjustments to statistical models and isolate or identify causal relationships between variables of interest. Edges (or arrows) transmit associations between nodes. Following the fundamental problem of causal inference, answering causal questions without an experiment appears impossible. The chapter explores different methods of making adjustments using synthetic data. Instead of throwing away potentially useful data, one can use other methods to create matches that are less discrete and more informative."
+    "text": "Download current CV"
   },
   {
-    "objectID": "research/chapters/heiss-causal-inference-2021/index.html#abstract",
-    "href": "research/chapters/heiss-causal-inference-2021/index.html#abstract",
-    "title": "Causal Inference",
+    "objectID": "blog/2024/01/30/maps-r/index.html",
+    "href": "blog/2024/01/30/maps-r/index.html",
+    "title": "Organizational Behavior: Geographic Distribution of Agricultural Units in Peru",
     "section": "",
-    "text": "One of the most repeated phrases in any introductory statistics class is the warning that “correlation is not causation.” This chapter presents new non-statistical language for creating, measuring, and evaluating causal stories and relationships using observational (i.e. non-experimental) data. It introduces the concept of causal directed acyclic graphs (DAGs) that allow us to formally encode our understanding of causal stories. With well-crafted DAGs, one can use a set of rules called do-calculus to make specific adjustments to statistical models and isolate or identify causal relationships between variables of interest. Edges (or arrows) transmit associations between nodes. Following the fundamental problem of causal inference, answering causal questions without an experiment appears impossible. The chapter explores different methods of making adjustments using synthetic data. Instead of throwing away potentially useful data, one can use other methods to create matches that are less discrete and more informative."
-  },
-  {
-    "objectID": "research/chapters/heiss-causal-inference-2021/index.html#important-figures",
-    "href": "research/chapters/heiss-causal-inference-2021/index.html#important-figures",
-    "title": "Causal Inference",
-    "section": "Important figures",
-    "text": "Important figures\nFigure 6: More complicated DAG showing the relationship between campaign spending and votes won in an election\n\n\n\nFigure 6: More complicated DAG showing the relationship between campaign spending and votes won in an election\n\n\nFigure 17: Adjustment set to identify the relationship between mosquito net use and malaria risk\n\n\n\nFigure 17: Adjustment set to identify the relationship between mosquito net use and malaria risk"
-  },
-  {
-    "objectID": "research/chapters/heiss-causal-inference-2021/index.html#citation",
-    "href": "research/chapters/heiss-causal-inference-2021/index.html#citation",
-    "title": "Causal Inference",
-    "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@incollection{Heiss:2021,\n    address = {Boca Raton, Florida},\n    author = {Andrew Heiss},\n    booktitle = {R for Political Data Science: A Practical Guide},\n    chapter = {10},\n    doi = {10.1201/9781003010623-10},\n    editor = {Francisco Urdinez and Andr{\\'e}s Cruz},\n    pages = {235--274},\n    publisher = {{Chapman and Hall} / CRC},\n    title = {Causal Inference},\n    year = {2021}}"
-  },
-  {
-    "objectID": "research/articles/plssem-aburto-2023/index.html",
-    "href": "research/articles/plssem-aburto-2023/index.html",
-    "title": "Entrepreneurial intention in master of business administration students at Colombian universities: the moderating role of perceived behavioral control",
-    "section": "",
-    "text": "The main objective of this research study is to determine whether perceived behavioral control has a moderating role in the influence of attitude toward entrepreneurship and subjective norms on entrepreneurial intention. The sample consists of 159 master of business administration (MBA) students from four Colombian universities. The methodological design is cross-sectional and explanatory and applies the partial least squares structural equation modeling (PLS-SEM). The results show that there is no evidence to suggest that perceived behavioral control moderates the relationship between attitude toward entrepreneurship and entrepreneurial intention. In addition, there is no evidence to infer that perceived behavioral control moderates the relationship between subjective norms and entrepreneurial intention. In conclusion, the current model of the theory of planned behavior provides no empirical support for explaining the entrepreneurial intention of MBA students from four different Colombian universities."
-  },
-  {
-    "objectID": "research/articles/plssem-aburto-2023/index.html#abstract",
-    "href": "research/articles/plssem-aburto-2023/index.html#abstract",
-    "title": "Entrepreneurial intention in master of business administration students at Colombian universities: the moderating role of perceived behavioral control",
-    "section": "",
-    "text": "The main objective of this research study is to determine whether perceived behavioral control has a moderating role in the influence of attitude toward entrepreneurship and subjective norms on entrepreneurial intention. The sample consists of 159 master of business administration (MBA) students from four Colombian universities. The methodological design is cross-sectional and explanatory and applies the partial least squares structural equation modeling (PLS-SEM). The results show that there is no evidence to suggest that perceived behavioral control moderates the relationship between attitude toward entrepreneurship and entrepreneurial intention. In addition, there is no evidence to infer that perceived behavioral control moderates the relationship between subjective norms and entrepreneurial intention. In conclusion, the current model of the theory of planned behavior provides no empirical support for explaining the entrepreneurial intention of MBA students from four different Colombian universities."
-  },
-  {
-    "objectID": "research/articles/plssem-aburto-2023/index.html#citation",
-    "href": "research/articles/plssem-aburto-2023/index.html#citation",
-    "title": "Entrepreneurial intention in master of business administration students at Colombian universities: the moderating role of perceived behavioral control",
-    "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@article{AcostaEtAl:2023,\n    Author = {Julio C. Acosta-Prado, Rodrigo A. Zárate-Torres, and Elías Aburto-Camacllanqui},\n    Doi = {10.4067/S0718-50062023000300031},\n    Journal = {Formación Universitaria},\n    Number = {3},\n    Pages = {31--40},\n    Title = {La intención emprendedora en estudiantes de maestría en administración de empresas de                universidades colombianas: el rol moderador del control del comportamiento percibido},\n    Volume = {16},\n    Year = {2023}}"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to my website!",
-    "section": "",
-    "text": "I’m an research assistant at the University of the Pacific’s Research Center (CIUP). I’m a student of the Specialization Diploma in Data Science for Social Sciences and Management of the Pontifical Catholic University of Peru (PUCP). I hold a Bachelor’s degree in Organizational and Human Management Psychology from the National University of San Marcos (UNMSM) in 2022.\nI’m a member of Avances en Medición Psicológica (AMP), a group of students interested in quantitative research and psychological measurement. Also, member of BehData, a group of professionals interested in behavioral data science."
-  },
-  {
-    "objectID": "blog/index.html#section",
-    "href": "blog/index.html#section",
-    "title": "Blog",
-    "section": "2024",
-    "text": "2024\n\n\n    \n    \n                  \n            January 30, 2024\n        \n        \n            Organizational Behavior: Geographic Distribution of Agricultural Units in Peru\n\n            \n            \n                \n                \n                    maps\n                \n                \n                \n                    r\n                \n                \n                \n                    INEI\n                \n                \n                \n                    agricultural\n                \n                \n            \n            \n\n            I conducted a comprehensive descriptive analysis using maps in RStudio, leveraging data from the 2019 National Agricultural Survey (ENA). The dataset was sourced from the National Institute of Statistics and Informatics (INEI) repository, providing a rich foundation for insightful spatial exploration and visualization.\n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n    \n                  \n            January 15, 2024\n        \n        \n            Consumer Behavior: status and factors associated with noncommunicable diseases in Peruvian consumers\n\n            \n            \n                \n                \n                    postgreSQL\n                \n                \n                \n                    INEI\n                \n                \n            \n            \n\n            I analize data to understand the status and factors associated with noncommunicable diseases in Peruvian consumers from INEI using PostgreSQL by pgAdmin 4 tool.\n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/index.html#section-1",
-    "href": "blog/index.html#section-1",
-    "title": "Blog",
-    "section": "2023",
-    "text": "2023\n\n\n    \n    \n                  \n            September 18, 2023\n        \n        \n            Organizational Behavior: Creating the scraper GREAT PLACE TO WORK\n\n            \n            \n                \n                \n                    webscraping\n                \n                \n                \n                    r\n                \n                \n                \n                    webpage\n                \n                \n                \n                    organizational climate\n                \n                \n            \n            \n\n            Creating a web scraper using RStudio to extract data from the Great Place to Work website offers a powerful means of accessing and analyzing this valuable information. By harnessing the capabilities of R and its diverse ecosystem of packages, you can automate the extraction of data on workplace rankings, employee counts, industry trends, and geographical locations.\n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n    \n                  \n            August 15, 2023\n        \n        \n            Consumer behavior: Determinants of COVID-19 vaccination intention using Planned Behavior Theory\n\n            \n            \n                \n                \n                    covid-19\n                \n                \n                \n                    multiple regression analysis\n                \n                \n                \n                    Planned Behavior theory\n                \n                \n                \n                    r\n                \n                \n            \n            \n\n            I make a secondary analysis using multiple regression analysis. I used the data from Drążkowski & Trepanowski (2022) which was published in a open source repository.\n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/2024/01/15/index.html",
-    "href": "blog/2024/01/15/index.html",
-    "title": "Consumer Behavior: status and factors associated with noncommunicable diseases in Peruvian consumers",
-    "section": "",
-    "text": "Introduction\n\n\nNon-communicable diseases are the leading causes of death worldwide. Efforts are being made to understand the factors associated with these diseases with the aim of proposing effective public policies that contribute to their reduction.\n\n\nMethodology\nProblem: What is the status and factors associated with non-communicable diseases in Peruvian consumers?\nObjective: To characterize the status and factors associated with non-communicable diseases in Peruvian consumers.\nTarget population: People over 15 years of age.\nData Base: INEI, Endes 2022\nMeasurement: Health and Household Questionnaire\nData preprocessing:\n\n\nDownload modules 1640 and 1629 of the Demographic and Family Health Survey in csv format.\n\n\nChange commas to dots in the CSALUD01 and RECH0 DBs. SQL considers the dots as referring to decimals, the comma interprets it as a strange character. When you download the INEI database, the decimals are separated by commas. Modify it with notepad or another tool.\n\n\n\n\nResults\n1. Open pgAdmin 4\n\n\n\n\n2. Create a new database\n\n\n\n\n3. Name the project and save.\n\n\n\n\n4. We will have the database created.\n\n\n\n\n5. We will open a Query Tool\n\n\n\n\n6. Now we will open the attached file\n\n\n\n\n7. You can see the document ProyectoQuery.sql\n\n\n\n\n8. Now we can read the data in postgreSQL\n\n\n\n\n\n\nConclusion\nIt is possible to analyze INEI databases using PostgreSQL."
-  },
-  {
-    "objectID": "blog/2023/08/15/lineal-regression/index.html",
-    "href": "blog/2023/08/15/lineal-regression/index.html",
-    "title": "Consumer behavior: Determinants of COVID-19 vaccination intention using Planned Behavior Theory",
-    "section": "",
-    "text": "Problem of research: What are the determinants of COVID-19 vaccination intention?\nObjective: To identify the determinants of COVID-19 vaccination through an application of the Theory of Planned Behavior.\nHypothesis:\n\nH1: Control beliefs have a direct impact on COVID-19 vaccination intention.\nH2: Utility beliefs have a direct impact on COVID-19 vaccination intention.\nH3: Social norm beliefs have a direct impact on COVID-19 vaccination intention."
-  },
-  {
-    "objectID": "blog/2023/08/15/lineal-regression/index.html#a.-model-evaluation",
-    "href": "blog/2023/08/15/lineal-regression/index.html#a.-model-evaluation",
-    "title": "Consumer behavior: Determinants of COVID-19 vaccination intention using Planned Behavior Theory",
-    "section": "A. Model Evaluation",
-    "text": "A. Model Evaluation\n\nA1. Regression coeficients and r-square\nInstall packages\n\n#install.packages(\"ggplot2\")\n#install.packages(\"dplyr\")\n#install.packages(\"broom\")\n#install.packages(\"ggpubr\")\n#install.packages(\"tidyverse\")\n\nload the packages\n\nlibrary(\"foreign\")\nlibrary(ggplot2)\nlibrary(dplyr)\nlibrary(broom)\nlibrary(ggpubr)\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(car)\n\nLoad the database\n\nMydata &lt;- read.spss(\"data/COVID_data.sav\",to.data.frame=T,use.value.labels=FALSE)\n\nView(Mydata)\n\nsummary(Mydata$SE_Total)\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n   3.00   12.00   15.00   15.42   18.00   21.00 \n\n\nPerform the linear regression analysis\n\nIntention_lm &lt;- lm(IN_Total ~ SN_Total + BC_Total + AT_Total, data = Mydata)\nsummary(Intention_lm)\n\n\nCall:\nlm(formula = IN_Total ~ SN_Total + BC_Total + AT_Total, data = Mydata)\n\nResiduals:\n     Min       1Q   Median       3Q      Max \n-11.4622  -1.2412   0.1199   1.3464  11.0907 \n\nCoefficients:\n            Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept) -1.71571    0.36855  -4.655 4.07e-06 ***\nSN_Total     0.36218    0.03976   9.109  &lt; 2e-16 ***\nBC_Total     0.29052    0.03483   8.341 6.00e-16 ***\nAT_Total     0.45369    0.03504  12.946  &lt; 2e-16 ***\n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 2.457 on 547 degrees of freedom\nMultiple R-squared:  0.7865,    Adjusted R-squared:  0.7853 \nF-statistic: 671.5 on 3 and 547 DF,  p-value: &lt; 2.2e-16\n\n\n\n\nA2. Interpretation of Bs ajusted\nAbout Subjective Norms,\nPrediction: For each point obtained in the scale of subjective norms, the intenton to COVID-19 vaccination intention will increase 0.36 points.\nExplanation: Subjective norms had a direct and positive effect on COVID-19 vaccination intention it was statistically significant.\nAbout Behavioral Control,\nPrediction: For each point obtained in the scale of Behavioral Control, the intenton to COVID-19 vaccination intention will increase 0.29 points.\nExplanation: Behavioral Control had a direct and positive effect on COVID-19 vaccination intention and it was statistically significant.\nAbout Attitude Toward Covid-19 vaccination,\nPrediction: For each point obtained in the scale of Attitude Toward Covid-19 vaccination, the intenton to COVID-19 vaccination intention will increase 0.45 points.\nExplanation: Attitude Toward Covid-19 vaccination had a direct and positive effect on COVID-19 vaccination intention and it was statistical significance.\nThe model with these three determinants explain 78% of variance of COVID-19 vaccination intention."
-  },
-  {
-    "objectID": "blog/2023/08/15/lineal-regression/index.html#b.-regression-model-assumtions",
-    "href": "blog/2023/08/15/lineal-regression/index.html#b.-regression-model-assumtions",
-    "title": "Consumer behavior: Determinants of COVID-19 vaccination intention using Planned Behavior Theory",
-    "section": "B. Regression Model Assumtions",
-    "text": "B. Regression Model Assumtions\n\nB1. Lineality between IVs and Dv\nThe relationship between IVs and DV must be lineal.\n\nplot(IN_Total ~ SN_Total, data = Mydata)\nabline(lm(IN_Total ~ SN_Total, data = Mydata), col = \"red\")\n\n\n\n\n\n\n\n\nIt’s observed that there is a linear relationship between Subjective Norms and COVID-19 Vaccination Intention\n\nplot(IN_Total ~ BC_Total, data = Mydata)\nabline(lm(IN_Total ~ BC_Total, data = Mydata), col = \"red\")\n\n\n\n\n\n\n\n\nIt’s observed that there is a linear relationship between Behavioral Control and COVID-19 Vaccination Intention\n\nplot(IN_Total ~ AT_Total, data = Mydata)\nabline(lm(IN_Total ~ AT_Total, data = Mydata), col = \"red\")\n\n\n\n\n\n\n\n\nIt’s observed that there is a linear relationship between Attitude toward Covid-19 vaccination and COVID-19 Vaccination Intention\n\n\nB2. Independence of observations\nThe covariances of errors must be cero.\nThe observation from our model are independent. This was fulfilled when each observation was made by one participant.\nEvaluation:\nUse the Durbin-Watson Test. This is useful to test autocorrelation of residuals that must be cero.\n\nlibrary(car) # In this package is Durbin-Watson Test\n\ndurbinWatsonTest(Intention_lm)\n\n lag Autocorrelation D-W Statistic p-value\n   1      -0.1210717      2.241997       0\n Alternative hypothesis: rho != 0\n\n\nH0: There is not correlation among the residuals. H1: The residuals are autocorrelated.\nIf the p-value is less than 0.05, you would reject the null hypothesis and conclude that there is evidence of autocorrelation in the residuals.\nIf the p-value is greater than 0.05, you would fail to reject the null hypothesis, suggesting that there is insufficient evidence to conclude that there is autocorrelation in the residuals.\nIn this result, since the p-value (0.002) is less than 0.05, we would conclude that there is evidence of autocorrelation in the residuals.\nAlthough, It was mention that D-W statistic is between 0 to 4. Values between 1.5 and 2.5 is ok. Therefore, in this test, we will consider it. In this study it was 2.24 which mean that is ok.\n\n\nB3. Homocedasticity\nThe residuals are distribuided homogeneusly on the dependent variable. So they have iqual variance.\nEvaluation: - Diagrama de dispersión, Harrison-McCabe or Goldfeld-Quandt tests.\nGoldfeld-Quandt tests\n\n# install.packages(\"lmtest\")\n\nlibrary(lmtest)\n\ngqtest(Intention_lm)\n\n\n    Goldfeld-Quandt test\n\ndata:  Intention_lm\nGQ = 1.0384, df1 = 272, df2 = 271, p-value = 0.3781\nalternative hypothesis: variance increases from segment 1 to 2\n\n\nH0: residuals have homogeneous variance. H1: residuals haven’t homogeneous variance.\nAs p value was 0.3781 greater than 0.05, We have insufficient evidence to reject the null hypothesis. So we can say that residuals have homogeneous variance.\nHarrison-McCabe test\n\nhmctest(Intention_lm)\n\n\n    Harrison-McCabe test\n\ndata:  Intention_lm\nHMC = 0.49002, p-value = 0.369\n\n\nH0: residuals have homogeneous variance. H1: residuals haven’t homogeneous variance.\nAs p value was 0.379 greater than 0.05, We have insufficient evidence to reject the null hypothesis. So we can say that residuals have homogeneous variance.\n\n\nB4. Normality of Errors\nThe residuals show a normal distribution.\nEvaluation: - Residuals distribution, Q-Q plot, and Shapiro-Wilk test.\n\nhist(residuals(Intention_lm)) \n\n\n\n\n\n\n\n\n\npar(mfrow=c(2,2))\nplot(Intention_lm)\n\n\n\n\n\n\n\npar(mfrow=c(1,1))"
-  },
-  {
-    "objectID": "blog/2023/08/15/lineal-regression/index.html#c.-additional-information",
-    "href": "blog/2023/08/15/lineal-regression/index.html#c.-additional-information",
-    "title": "Consumer behavior: Determinants of COVID-19 vaccination intention using Planned Behavior Theory",
-    "section": "C. Additional information",
-    "text": "C. Additional information\n\nC1. Multicollinality:\nEvaluate if the IVs are redundant. This happen when VIs are highly correlated.\nEvaluation: - Tolerance (TOL) and Variance Inflation of Factor (VIF)\n\nvif(Intention_lm)\n\nSN_Total BC_Total AT_Total \n2.984366 1.899331 2.991759 \n\n\n\nlibrary(see)\nlibrary(performance)\n\nx&lt;-check_collinearity(Intention_lm)\nx\n\n# Check for Multicollinearity\n\nLow Correlation\n\n     Term  VIF   VIF 95% CI Increased SE Tolerance Tolerance 95% CI\n SN_Total 2.98 [2.61, 3.44]         1.73      0.34     [0.29, 0.38]\n BC_Total 1.90 [1.70, 2.16]         1.38      0.53     [0.46, 0.59]\n AT_Total 2.99 [2.62, 3.45]         1.73      0.33     [0.29, 0.38]\n\nplot(x)\n\n\n\n\n\n\n\n# los valores de VIF &lt;6\n\n\n\nC2. Diagnostics.\nEvaluation:\n\nCook distances.\n\nvalues don’t must be bigger than 1.\n\n#the car package (Companion to Applied Regression)\n\n# Load the car package\nlibrary(car)\n\n# Compute influence measures, including Cook's distance\ninfluence &lt;- influence.measures(Intention_lm)\n\n# Access Cook's distance from the influence object\ncook_dist &lt;- influence$infmat[,7] #I put [,7] because that its the column that contains cook distances.\n\nsummary(cook_dist)\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n0.000e+00 4.156e-05 3.211e-04 2.811e-03 1.619e-03 1.340e-01 \n\n# Plot Cook's distance\nplot(cook_dist, pch = 19, main = \"Cook's Distance Plot\")\nabline(h = 4 * mean(cook_dist), col = \"red\", lty = 2)\n\n\n\n\n\n\n\n\nInterpretation: It’s ok because any points is greater than 1."
+    "text": "Introduction\n\n\nObjective: To visualize the geographic distribution of the agricultural units that participated in the 2019 National Agricultural Survey (ENA 2019) according to production size.\n\n\nMethodology\nData: INEI\nSurvey: ENA 2019\nData preprocessing\n\n#install.packages(\"mapsPERU\")\n\nlibrary(plotly)\nlibrary(mapsPERU)\nlibrary(ggplot2)\nlibrary(tidyverse)\nlibrary(ggrepel)\nlibrary(dplyr) #para utilizar mutate\nlibrary(readr)\nlibrary(haven)\n\nlibrary(leaflet)\nlibrary(leaflet.extras)\nlibrary(rworldxtra)\nlibrary(raster)\nlibrary(sf)\nlibrary(tidyverse)\n\n#Extraemos las coordenadas del paquete mapsPERU distrito\ndf &lt;- map_DIST\n\n#Cargamos nuestra base de datos\ncap1200 &lt;- haven::read_sav(\"data/20_Cap1200.sav\")\n\n#Visualizamos la base de datos\ndf\n\n# A tibble: 1,891 × 13\n   COD_REGION COD_DEPARTAMENTO COD_PROVINCIA COD_DISTRITO REGION   DEPARTAMENTO\n   &lt;chr&gt;      &lt;chr&gt;            &lt;chr&gt;         &lt;chr&gt;        &lt;chr&gt;    &lt;chr&gt;       \n 1 010000     010000           010100        010101       Amazonas Amazonas    \n 2 010000     010000           010100        010102       Amazonas Amazonas    \n 3 010000     010000           010100        010103       Amazonas Amazonas    \n 4 010000     010000           010100        010104       Amazonas Amazonas    \n 5 010000     010000           010100        010105       Amazonas Amazonas    \n 6 010000     010000           010100        010106       Amazonas Amazonas    \n 7 010000     010000           010100        010107       Amazonas Amazonas    \n 8 010000     010000           010100        010108       Amazonas Amazonas    \n 9 010000     010000           010100        010109       Amazonas Amazonas    \n10 010000     010000           010100        010110       Amazonas Amazonas    \n# ℹ 1,881 more rows\n# ℹ 7 more variables: PROVINCIA &lt;chr&gt;, DISTRITO &lt;chr&gt;,\n#   NOMBRE_CAPITAL_LEGAL &lt;chr&gt;, REGION_NATURAL &lt;chr&gt;, coords_x &lt;dbl&gt;,\n#   coords_y &lt;dbl&gt;, geometry &lt;MULTIPOLYGON [°]&gt;\n\ncap1200\n\n# A tibble: 29,555 × 30\n    ANIO CCDD  NOMBREDD CCPP  NOMBREPV  CCDI  NOMBREDI CONGLOMERADO NSELUA UA   \n   &lt;dbl&gt; &lt;chr&gt; &lt;chr&gt;    &lt;chr&gt; &lt;chr&gt;     &lt;chr&gt; &lt;chr&gt;    &lt;chr&gt;        &lt;chr&gt;  &lt;chr&gt;\n 1  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00006  1    \n 2  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00022  2    \n 3  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00043  3    \n 4  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00062  4    \n 5  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00077  5    \n 6  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00101  6    \n 7  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00118  7    \n 8  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00120  8    \n 9  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00168  10   \n10  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00186  11   \n# ℹ 29,545 more rows\n# ℹ 20 more variables: ESTRATO &lt;dbl+lbl&gt;, RESFIN &lt;dbl+lbl&gt;, REGION &lt;dbl+lbl&gt;,\n#   DOMINIO &lt;dbl+lbl&gt;, FACTOR &lt;dbl&gt;, CODIGO &lt;dbl+lbl&gt;, P101A &lt;dbl+lbl&gt;,\n#   P102_1 &lt;dbl+lbl&gt;, P102_2 &lt;dbl+lbl&gt;, P102_3 &lt;dbl+lbl&gt;, P1201 &lt;dbl&gt;,\n#   P1201_EE &lt;dbl&gt;, P1201_N &lt;dbl+lbl&gt;, P1202_ENT &lt;dbl&gt;, P1202_DEC &lt;chr&gt;,\n#   P1202_UM &lt;dbl+lbl&gt;, P1202_COD &lt;dbl&gt;, P1202_EQUIV_1 &lt;dbl&gt;,\n#   P1202_EQUIV_2 &lt;chr&gt;, OMICAP1200 &lt;chr&gt;\n\n\nWe notice that the columns DEPARTMENTO PROVINCIA DISTRITO are in lower case and with tilde while the database cap1200 is in upper case and without tilde. cap1200 database are in uppercase and without tilde. We have to homogenize them.\nWe convert all variables that have lowercase characters to uppercase.\n\ndf &lt;- mutate_if(df, is.character, toupper)\ndf\n\n# A tibble: 1,891 × 13\n   COD_REGION COD_DEPARTAMENTO COD_PROVINCIA COD_DISTRITO REGION   DEPARTAMENTO\n   &lt;chr&gt;      &lt;chr&gt;            &lt;chr&gt;         &lt;chr&gt;        &lt;chr&gt;    &lt;chr&gt;       \n 1 010000     010000           010100        010101       AMAZONAS AMAZONAS    \n 2 010000     010000           010100        010102       AMAZONAS AMAZONAS    \n 3 010000     010000           010100        010103       AMAZONAS AMAZONAS    \n 4 010000     010000           010100        010104       AMAZONAS AMAZONAS    \n 5 010000     010000           010100        010105       AMAZONAS AMAZONAS    \n 6 010000     010000           010100        010106       AMAZONAS AMAZONAS    \n 7 010000     010000           010100        010107       AMAZONAS AMAZONAS    \n 8 010000     010000           010100        010108       AMAZONAS AMAZONAS    \n 9 010000     010000           010100        010109       AMAZONAS AMAZONAS    \n10 010000     010000           010100        010110       AMAZONAS AMAZONAS    \n# ℹ 1,881 more rows\n# ℹ 7 more variables: PROVINCIA &lt;chr&gt;, DISTRITO &lt;chr&gt;,\n#   NOMBRE_CAPITAL_LEGAL &lt;chr&gt;, REGION_NATURAL &lt;chr&gt;, coords_x &lt;dbl&gt;,\n#   coords_y &lt;dbl&gt;, geometry &lt;MULTIPOLYGON [°]&gt;\n\n\nWe remove accents from capital letters.\n\ndf$DEPARTAMENTO &lt;- chartr('Á,É,Í,Ó,Ú','A,E,I,O,U', df$DEPARTAMENTO)\ndf$PROVINCIA &lt;- chartr('Á,É,Í,Ó,Ú','A,E,I,O,U', df$PROVINCIA)\ndf$DISTRITO &lt;- chartr('Á,É,Í,Ó,Ú','A,E,I,O,U', df$DISTRITO)\n\n\n# We display the name of the variables\nnames(cap1200)\n\n [1] \"ANIO\"          \"CCDD\"          \"NOMBREDD\"      \"CCPP\"         \n [5] \"NOMBREPV\"      \"CCDI\"          \"NOMBREDI\"      \"CONGLOMERADO\" \n [9] \"NSELUA\"        \"UA\"            \"ESTRATO\"       \"RESFIN\"       \n[13] \"REGION\"        \"DOMINIO\"       \"FACTOR\"        \"CODIGO\"       \n[17] \"P101A\"         \"P102_1\"        \"P102_2\"        \"P102_3\"       \n[21] \"P1201\"         \"P1201_EE\"      \"P1201_N\"       \"P1202_ENT\"    \n[25] \"P1202_DEC\"     \"P1202_UM\"      \"P1202_COD\"     \"P1202_EQUIV_1\"\n[29] \"P1202_EQUIV_2\" \"OMICAP1200\"   \n\n# Rename the variable NOMBREDI of the base cap1200\ncap1200 &lt;- rename(cap1200, DISTRITO = NOMBREDI)\n\n\n#Rename the categories of the size of agricultural units\n\nCod_tipo &lt;- c(`1`=\"Pequeña y mediana UA\",\n              `2`=\"Grande UA\")\n\n\ncap1200$CODIGO &lt;- as.factor(cap1200$CODIGO)\n\nnames(cap1200)\n\n [1] \"ANIO\"          \"CCDD\"          \"NOMBREDD\"      \"CCPP\"         \n [5] \"NOMBREPV\"      \"CCDI\"          \"DISTRITO\"      \"CONGLOMERADO\" \n [9] \"NSELUA\"        \"UA\"            \"ESTRATO\"       \"RESFIN\"       \n[13] \"REGION\"        \"DOMINIO\"       \"FACTOR\"        \"CODIGO\"       \n[17] \"P101A\"         \"P102_1\"        \"P102_2\"        \"P102_3\"       \n[21] \"P1201\"         \"P1201_EE\"      \"P1201_N\"       \"P1202_ENT\"    \n[25] \"P1202_DEC\"     \"P1202_UM\"      \"P1202_COD\"     \"P1202_EQUIV_1\"\n[29] \"P1202_EQUIV_2\" \"OMICAP1200\"   \n\ncap1200 &lt;- cap1200 %&gt;% \n  mutate(CODIGO = recode_factor(CODIGO,!!!Cod_tipo))\n\n\n#We integrate both databases through DISTRITO\nENA2019 &lt;- left_join(df, cap1200, by = \"DISTRITO\")\n\nnames(ENA2019)\n\n [1] \"COD_REGION\"           \"COD_DEPARTAMENTO\"     \"COD_PROVINCIA\"       \n [4] \"COD_DISTRITO\"         \"REGION.x\"             \"DEPARTAMENTO\"        \n [7] \"PROVINCIA\"            \"DISTRITO\"             \"NOMBRE_CAPITAL_LEGAL\"\n[10] \"REGION_NATURAL\"       \"coords_x\"             \"coords_y\"            \n[13] \"geometry\"             \"ANIO\"                 \"CCDD\"                \n[16] \"NOMBREDD\"             \"CCPP\"                 \"NOMBREPV\"            \n[19] \"CCDI\"                 \"CONGLOMERADO\"         \"NSELUA\"              \n[22] \"UA\"                   \"ESTRATO\"              \"RESFIN\"              \n[25] \"REGION.y\"             \"DOMINIO\"              \"FACTOR\"              \n[28] \"CODIGO\"               \"P101A\"                \"P102_1\"              \n[31] \"P102_2\"               \"P102_3\"               \"P1201\"               \n[34] \"P1201_EE\"             \"P1201_N\"              \"P1202_ENT\"           \n[37] \"P1202_DEC\"            \"P1202_UM\"             \"P1202_COD\"           \n[40] \"P1202_EQUIV_1\"        \"P1202_EQUIV_2\"        \"OMICAP1200\"          \n\n\n\n\nResults\n1. We create the map base\n\nleaflet() %&gt;% addTiles()\n\n\n\n\n\n2. We add the coordinates of all Agricultural units.\n\nleaflet() %&gt;% addTiles() %&gt;% \n  addCircles(data = ENA2019, lat = ~coords_y, lng = ~coords_x)\n\n\n\n\n\n3. We have added colors to identify the size of the agricultural units.\n\n## to generate colors\n#number of types of producers\nNumber_tpp &lt;- ENA2019$CODIGO %&gt;% unique() %&gt;% \n  length()\n\n#Species name\ntpp_Names &lt;- ENA2019$CODIGO %&gt;% unique()\n\n\n## The colors of the sizes of the agricultural units will be:\nColores &lt;- c('#e41a1c', '#377eb8', '#4daf4a')\n\ntable(ENA2019$CODIGO)\n\n\nPequeña y mediana UA            Grande UA \n               33857                 1847 \n\n#Linking the color palette to name types\npal &lt;- colorFactor(Colores, domain = tpp_Names)\n\n\n\n##Map with colors. fillopacity is transparency\nleaflet() %&gt;% \n  addTiles() %&gt;% \n  addCircles(data = ENA2019, lat = ~coords_y, lng = ~coords_x, color = ~pal(CODIGO), fillOpacity = 0.5)\n\n\n\n\n\n4. We add labels to agricultural units.\n\n#labels\np &lt;- leaflet() %&gt;% \n  addTiles() %&gt;% \n  addCircles(data = ENA2019, lat = ~coords_y, \n             lng = ~coords_x, color = ~pal(CODIGO),\n             fillOpacity = 0.5, label = ~CODIGO, \n             group = \"Codigo\")\n\np\n\n\n\n\n\n5. We generate a legend.\n\n## Generar una leyenda\np &lt;- p %&gt;% addLegend(data = ENA2019, \"bottomright\", pal = pal, \n                     values = ~CODIGO, title = \"Tipos de productores\", \n                     opacity = 0.8, group = \"Leyenda\")\np\n\n\n\n\n\n6. We add layers according to the aspects of interest.\n\n## Seleccionar capas\np &lt;- p %&gt;% addLayersControl(overlayGroups = c(\"Codigo\", \"Leyenda\"), \n                            options = layersControlOptions(collapsed = F))\np\n\n\n\n\n\n\n\nConclusions\nIt can be observed that the majority of agricultural units in Peru have small and medium production sizes. In addition, they are mostly located in the central region of Peru."
   },
   {
     "objectID": "blog/2023/09/18/webscraping_gptw/index.html",
@@ -294,234 +77,80 @@
     "text": "3. Data Cleaning\nWe will give the appropriate format to the data obtained for each variable of interest.\n\n# Remove blanks of ranking and empresa\ndf$ranking &lt;- str_trim(df$ranking, side = \"both\")\ndf$empresa &lt;- str_trim(df$empresa, side = \"both\")\n\n# Obtain only the numbers from empleados variable\n\ndf$empleados &lt;- str_replace_all(df$empleados, \",\", \"\") # First, remove commas\ndf$empleados &lt;- str_extract(df$empleados, \"\\\\d+\") # Obtain the numbers\ndf$empleados &lt;- as.numeric(df$empleados) # Convert the \"empleados\" column to numeric\n\n\n# See the final table\n\nDT::datatable(df, options = list(pageLength = 10))"
   },
   {
-    "objectID": "blog/2024/01/30/maps-r/index.html",
-    "href": "blog/2024/01/30/maps-r/index.html",
-    "title": "Organizational Behavior: Geographic Distribution of Agricultural Units in Peru",
+    "objectID": "blog/2023/08/15/lineal-regression/index.html",
+    "href": "blog/2023/08/15/lineal-regression/index.html",
+    "title": "Consumer behavior: Determinants of COVID-19 vaccination intention using Planned Behavior Theory",
     "section": "",
-    "text": "Introduction\n\n\nObjective: To visualize the geographic distribution of the agricultural units that participated in the 2019 National Agricultural Survey (ENA 2019) according to production size.\n\n\nMethodology\nData: INEI\nSurvey: ENA 2019\nData preprocessing\n\n#install.packages(\"mapsPERU\")\n\nlibrary(plotly)\nlibrary(mapsPERU)\nlibrary(ggplot2)\nlibrary(tidyverse)\nlibrary(ggrepel)\nlibrary(dplyr) #para utilizar mutate\nlibrary(readr)\nlibrary(haven)\n\nlibrary(leaflet)\nlibrary(leaflet.extras)\nlibrary(rworldxtra)\nlibrary(raster)\nlibrary(sf)\nlibrary(tidyverse)\n\n#Extraemos las coordenadas del paquete mapsPERU distrito\ndf &lt;- map_DIST\n\n#Cargamos nuestra base de datos\ncap1200 &lt;- haven::read_sav(\"data/20_Cap1200.sav\")\n\n#Visualizamos la base de datos\ndf\n\n# A tibble: 1,891 × 13\n   COD_REGION COD_DEPARTAMENTO COD_PROVINCIA COD_DISTRITO REGION   DEPARTAMENTO\n   &lt;chr&gt;      &lt;chr&gt;            &lt;chr&gt;         &lt;chr&gt;        &lt;chr&gt;    &lt;chr&gt;       \n 1 010000     010000           010100        010101       Amazonas Amazonas    \n 2 010000     010000           010100        010102       Amazonas Amazonas    \n 3 010000     010000           010100        010103       Amazonas Amazonas    \n 4 010000     010000           010100        010104       Amazonas Amazonas    \n 5 010000     010000           010100        010105       Amazonas Amazonas    \n 6 010000     010000           010100        010106       Amazonas Amazonas    \n 7 010000     010000           010100        010107       Amazonas Amazonas    \n 8 010000     010000           010100        010108       Amazonas Amazonas    \n 9 010000     010000           010100        010109       Amazonas Amazonas    \n10 010000     010000           010100        010110       Amazonas Amazonas    \n# ℹ 1,881 more rows\n# ℹ 7 more variables: PROVINCIA &lt;chr&gt;, DISTRITO &lt;chr&gt;,\n#   NOMBRE_CAPITAL_LEGAL &lt;chr&gt;, REGION_NATURAL &lt;chr&gt;, coords_x &lt;dbl&gt;,\n#   coords_y &lt;dbl&gt;, geometry &lt;MULTIPOLYGON [°]&gt;\n\ncap1200\n\n# A tibble: 29,555 × 30\n    ANIO CCDD  NOMBREDD CCPP  NOMBREPV  CCDI  NOMBREDI CONGLOMERADO NSELUA UA   \n   &lt;dbl&gt; &lt;chr&gt; &lt;chr&gt;    &lt;chr&gt; &lt;chr&gt;     &lt;chr&gt; &lt;chr&gt;    &lt;chr&gt;        &lt;chr&gt;  &lt;chr&gt;\n 1  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00006  1    \n 2  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00022  2    \n 3  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00043  3    \n 4  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00062  4    \n 5  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00077  5    \n 6  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00101  6    \n 7  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00118  7    \n 8  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00120  8    \n 9  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00168  10   \n10  2019 24    TUMBES   02    CONTRALM… 03    CANOAS … 00001        00186  11   \n# ℹ 29,545 more rows\n# ℹ 20 more variables: ESTRATO &lt;dbl+lbl&gt;, RESFIN &lt;dbl+lbl&gt;, REGION &lt;dbl+lbl&gt;,\n#   DOMINIO &lt;dbl+lbl&gt;, FACTOR &lt;dbl&gt;, CODIGO &lt;dbl+lbl&gt;, P101A &lt;dbl+lbl&gt;,\n#   P102_1 &lt;dbl+lbl&gt;, P102_2 &lt;dbl+lbl&gt;, P102_3 &lt;dbl+lbl&gt;, P1201 &lt;dbl&gt;,\n#   P1201_EE &lt;dbl&gt;, P1201_N &lt;dbl+lbl&gt;, P1202_ENT &lt;dbl&gt;, P1202_DEC &lt;chr&gt;,\n#   P1202_UM &lt;dbl+lbl&gt;, P1202_COD &lt;dbl&gt;, P1202_EQUIV_1 &lt;dbl&gt;,\n#   P1202_EQUIV_2 &lt;chr&gt;, OMICAP1200 &lt;chr&gt;\n\n\nWe notice that the columns DEPARTMENTO PROVINCIA DISTRITO are in lower case and with tilde while the database cap1200 is in upper case and without tilde. cap1200 database are in uppercase and without tilde. We have to homogenize them.\nWe convert all variables that have lowercase characters to uppercase.\n\ndf &lt;- mutate_if(df, is.character, toupper)\ndf\n\n# A tibble: 1,891 × 13\n   COD_REGION COD_DEPARTAMENTO COD_PROVINCIA COD_DISTRITO REGION   DEPARTAMENTO\n   &lt;chr&gt;      &lt;chr&gt;            &lt;chr&gt;         &lt;chr&gt;        &lt;chr&gt;    &lt;chr&gt;       \n 1 010000     010000           010100        010101       AMAZONAS AMAZONAS    \n 2 010000     010000           010100        010102       AMAZONAS AMAZONAS    \n 3 010000     010000           010100        010103       AMAZONAS AMAZONAS    \n 4 010000     010000           010100        010104       AMAZONAS AMAZONAS    \n 5 010000     010000           010100        010105       AMAZONAS AMAZONAS    \n 6 010000     010000           010100        010106       AMAZONAS AMAZONAS    \n 7 010000     010000           010100        010107       AMAZONAS AMAZONAS    \n 8 010000     010000           010100        010108       AMAZONAS AMAZONAS    \n 9 010000     010000           010100        010109       AMAZONAS AMAZONAS    \n10 010000     010000           010100        010110       AMAZONAS AMAZONAS    \n# ℹ 1,881 more rows\n# ℹ 7 more variables: PROVINCIA &lt;chr&gt;, DISTRITO &lt;chr&gt;,\n#   NOMBRE_CAPITAL_LEGAL &lt;chr&gt;, REGION_NATURAL &lt;chr&gt;, coords_x &lt;dbl&gt;,\n#   coords_y &lt;dbl&gt;, geometry &lt;MULTIPOLYGON [°]&gt;\n\n\nWe remove accents from capital letters.\n\ndf$DEPARTAMENTO &lt;- chartr('Á,É,Í,Ó,Ú','A,E,I,O,U', df$DEPARTAMENTO)\ndf$PROVINCIA &lt;- chartr('Á,É,Í,Ó,Ú','A,E,I,O,U', df$PROVINCIA)\ndf$DISTRITO &lt;- chartr('Á,É,Í,Ó,Ú','A,E,I,O,U', df$DISTRITO)\n\n\n# We display the name of the variables\nnames(cap1200)\n\n [1] \"ANIO\"          \"CCDD\"          \"NOMBREDD\"      \"CCPP\"         \n [5] \"NOMBREPV\"      \"CCDI\"          \"NOMBREDI\"      \"CONGLOMERADO\" \n [9] \"NSELUA\"        \"UA\"            \"ESTRATO\"       \"RESFIN\"       \n[13] \"REGION\"        \"DOMINIO\"       \"FACTOR\"        \"CODIGO\"       \n[17] \"P101A\"         \"P102_1\"        \"P102_2\"        \"P102_3\"       \n[21] \"P1201\"         \"P1201_EE\"      \"P1201_N\"       \"P1202_ENT\"    \n[25] \"P1202_DEC\"     \"P1202_UM\"      \"P1202_COD\"     \"P1202_EQUIV_1\"\n[29] \"P1202_EQUIV_2\" \"OMICAP1200\"   \n\n# Rename the variable NOMBREDI of the base cap1200\ncap1200 &lt;- rename(cap1200, DISTRITO = NOMBREDI)\n\n\n#Rename the categories of the size of agricultural units\n\nCod_tipo &lt;- c(`1`=\"Pequeña y mediana UA\",\n              `2`=\"Grande UA\")\n\n\ncap1200$CODIGO &lt;- as.factor(cap1200$CODIGO)\n\nnames(cap1200)\n\n [1] \"ANIO\"          \"CCDD\"          \"NOMBREDD\"      \"CCPP\"         \n [5] \"NOMBREPV\"      \"CCDI\"          \"DISTRITO\"      \"CONGLOMERADO\" \n [9] \"NSELUA\"        \"UA\"            \"ESTRATO\"       \"RESFIN\"       \n[13] \"REGION\"        \"DOMINIO\"       \"FACTOR\"        \"CODIGO\"       \n[17] \"P101A\"         \"P102_1\"        \"P102_2\"        \"P102_3\"       \n[21] \"P1201\"         \"P1201_EE\"      \"P1201_N\"       \"P1202_ENT\"    \n[25] \"P1202_DEC\"     \"P1202_UM\"      \"P1202_COD\"     \"P1202_EQUIV_1\"\n[29] \"P1202_EQUIV_2\" \"OMICAP1200\"   \n\ncap1200 &lt;- cap1200 %&gt;% \n  mutate(CODIGO = recode_factor(CODIGO,!!!Cod_tipo))\n\n\n#We integrate both databases through DISTRITO\nENA2019 &lt;- left_join(df, cap1200, by = \"DISTRITO\")\n\nnames(ENA2019)\n\n [1] \"COD_REGION\"           \"COD_DEPARTAMENTO\"     \"COD_PROVINCIA\"       \n [4] \"COD_DISTRITO\"         \"REGION.x\"             \"DEPARTAMENTO\"        \n [7] \"PROVINCIA\"            \"DISTRITO\"             \"NOMBRE_CAPITAL_LEGAL\"\n[10] \"REGION_NATURAL\"       \"coords_x\"             \"coords_y\"            \n[13] \"geometry\"             \"ANIO\"                 \"CCDD\"                \n[16] \"NOMBREDD\"             \"CCPP\"                 \"NOMBREPV\"            \n[19] \"CCDI\"                 \"CONGLOMERADO\"         \"NSELUA\"              \n[22] \"UA\"                   \"ESTRATO\"              \"RESFIN\"              \n[25] \"REGION.y\"             \"DOMINIO\"              \"FACTOR\"              \n[28] \"CODIGO\"               \"P101A\"                \"P102_1\"              \n[31] \"P102_2\"               \"P102_3\"               \"P1201\"               \n[34] \"P1201_EE\"             \"P1201_N\"              \"P1202_ENT\"           \n[37] \"P1202_DEC\"            \"P1202_UM\"             \"P1202_COD\"           \n[40] \"P1202_EQUIV_1\"        \"P1202_EQUIV_2\"        \"OMICAP1200\"          \n\n\n\n\nResults\n1. We create the map base\n\nleaflet() %&gt;% addTiles()\n\n\n\n\n\n2. We add the coordinates of all Agricultural units.\n\nleaflet() %&gt;% addTiles() %&gt;% \n  addCircles(data = ENA2019, lat = ~coords_y, lng = ~coords_x)\n\n\n\n\n\n3. We have added colors to identify the size of the agricultural units.\n\n## to generate colors\n#number of types of producers\nNumber_tpp &lt;- ENA2019$CODIGO %&gt;% unique() %&gt;% \n  length()\n\n#Species name\ntpp_Names &lt;- ENA2019$CODIGO %&gt;% unique()\n\n\n## The colors of the sizes of the agricultural units will be:\nColores &lt;- c('#e41a1c', '#377eb8', '#4daf4a')\n\ntable(ENA2019$CODIGO)\n\n\nPequeña y mediana UA            Grande UA \n               33857                 1847 \n\n#Linking the color palette to name types\npal &lt;- colorFactor(Colores, domain = tpp_Names)\n\n\n\n##Map with colors. fillopacity is transparency\nleaflet() %&gt;% \n  addTiles() %&gt;% \n  addCircles(data = ENA2019, lat = ~coords_y, lng = ~coords_x, color = ~pal(CODIGO), fillOpacity = 0.5)\n\n\n\n\n\n4. We add labels to agricultural units.\n\n#labels\np &lt;- leaflet() %&gt;% \n  addTiles() %&gt;% \n  addCircles(data = ENA2019, lat = ~coords_y, \n             lng = ~coords_x, color = ~pal(CODIGO),\n             fillOpacity = 0.5, label = ~CODIGO, \n             group = \"Codigo\")\n\np\n\n\n\n\n\n5. We generate a legend.\n\n## Generar una leyenda\np &lt;- p %&gt;% addLegend(data = ENA2019, \"bottomright\", pal = pal, \n                     values = ~CODIGO, title = \"Tipos de productores\", \n                     opacity = 0.8, group = \"Leyenda\")\np\n\n\n\n\n\n6. We add layers according to the aspects of interest.\n\n## Seleccionar capas\np &lt;- p %&gt;% addLayersControl(overlayGroups = c(\"Codigo\", \"Leyenda\"), \n                            options = layersControlOptions(collapsed = F))\np\n\n\n\n\n\n\n\nConclusions\nIt can be observed that the majority of agricultural units in Peru have small and medium production sizes. In addition, they are mostly located in the central region of Peru."
+    "text": "Problem of research: What are the determinants of COVID-19 vaccination intention?\nObjective: To identify the determinants of COVID-19 vaccination through an application of the Theory of Planned Behavior.\nHypothesis:\n\nH1: Control beliefs have a direct impact on COVID-19 vaccination intention.\nH2: Utility beliefs have a direct impact on COVID-19 vaccination intention.\nH3: Social norm beliefs have a direct impact on COVID-19 vaccination intention."
   },
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitæ",
-    "section": "",
-    "text": "Download current CV"
+    "objectID": "blog/2023/08/15/lineal-regression/index.html#a.-model-evaluation",
+    "href": "blog/2023/08/15/lineal-regression/index.html#a.-model-evaluation",
+    "title": "Consumer behavior: Determinants of COVID-19 vaccination intention using Planned Behavior Theory",
+    "section": "A. Model Evaluation",
+    "text": "A. Model Evaluation\n\nA1. Regression coeficients and r-square\nInstall packages\n\n#install.packages(\"ggplot2\")\n#install.packages(\"dplyr\")\n#install.packages(\"broom\")\n#install.packages(\"ggpubr\")\n#install.packages(\"tidyverse\")\n\nload the packages\n\nlibrary(\"foreign\")\nlibrary(ggplot2)\nlibrary(dplyr)\nlibrary(broom)\nlibrary(ggpubr)\nlibrary(tidyverse)\nlibrary(readr)\nlibrary(car)\n\nLoad the database\n\nMydata &lt;- read.spss(\"data/COVID_data.sav\",to.data.frame=T,use.value.labels=FALSE)\n\nView(Mydata)\n\nsummary(Mydata$SE_Total)\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n   3.00   12.00   15.00   15.42   18.00   21.00 \n\n\nPerform the linear regression analysis\n\nIntention_lm &lt;- lm(IN_Total ~ SN_Total + BC_Total + AT_Total, data = Mydata)\nsummary(Intention_lm)\n\n\nCall:\nlm(formula = IN_Total ~ SN_Total + BC_Total + AT_Total, data = Mydata)\n\nResiduals:\n     Min       1Q   Median       3Q      Max \n-11.4622  -1.2412   0.1199   1.3464  11.0907 \n\nCoefficients:\n            Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept) -1.71571    0.36855  -4.655 4.07e-06 ***\nSN_Total     0.36218    0.03976   9.109  &lt; 2e-16 ***\nBC_Total     0.29052    0.03483   8.341 6.00e-16 ***\nAT_Total     0.45369    0.03504  12.946  &lt; 2e-16 ***\n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 2.457 on 547 degrees of freedom\nMultiple R-squared:  0.7865,    Adjusted R-squared:  0.7853 \nF-statistic: 671.5 on 3 and 547 DF,  p-value: &lt; 2.2e-16\n\n\n\n\nA2. Interpretation of Bs ajusted\nAbout Subjective Norms,\nPrediction: For each point obtained in the scale of subjective norms, the intenton to COVID-19 vaccination intention will increase 0.36 points.\nExplanation: Subjective norms had a direct and positive effect on COVID-19 vaccination intention it was statistically significant.\nAbout Behavioral Control,\nPrediction: For each point obtained in the scale of Behavioral Control, the intenton to COVID-19 vaccination intention will increase 0.29 points.\nExplanation: Behavioral Control had a direct and positive effect on COVID-19 vaccination intention and it was statistically significant.\nAbout Attitude Toward Covid-19 vaccination,\nPrediction: For each point obtained in the scale of Attitude Toward Covid-19 vaccination, the intenton to COVID-19 vaccination intention will increase 0.45 points.\nExplanation: Attitude Toward Covid-19 vaccination had a direct and positive effect on COVID-19 vaccination intention and it was statistical significance.\nThe model with these three determinants explain 78% of variance of COVID-19 vaccination intention."
   },
   {
-    "objectID": "research/articles/agentbased-aburto-2023/index.html",
-    "href": "research/articles/agentbased-aburto-2023/index.html",
-    "title": "Earned Value Management Agent-Based Simulation Model",
-    "section": "",
-    "text": "Agile project management (APM) can be defined as an iterative approach that promotes satisfying customer requirements, adjusts to change, and develops a working product in rapidly changing environments. Managers usually apply agile management as the project management approach in projects requiring extraordinary speed and flexibility in their processes. Earned value management (EVM) is a fundamental part of project management to establish practical measures. Often, managers use a task board to visually represent the work on a project and the path to completion. Still, managing an agile project can be a challenging endeavor. In this paper, we propose an agent-based model describing the management of tasks within a project using earned value assessment and a task board. Our model illustrates how EVM yields an efficient method to measure a project’s performance by comparing actual progress against planned activities, thus facilitating the formulation of more accurate predicted estimations. As proof of concept, we leverage our implementation to calculate EVM performance indexes according to a performance measurement baseline (PMB) in a task board fashion."
+    "objectID": "blog/2023/08/15/lineal-regression/index.html#b.-regression-model-assumtions",
+    "href": "blog/2023/08/15/lineal-regression/index.html#b.-regression-model-assumtions",
+    "title": "Consumer behavior: Determinants of COVID-19 vaccination intention using Planned Behavior Theory",
+    "section": "B. Regression Model Assumtions",
+    "text": "B. Regression Model Assumtions\n\nB1. Lineality between IVs and Dv\nThe relationship between IVs and DV must be lineal.\n\nplot(IN_Total ~ SN_Total, data = Mydata)\nabline(lm(IN_Total ~ SN_Total, data = Mydata), col = \"red\")\n\n\n\n\n\n\n\n\nIt’s observed that there is a linear relationship between Subjective Norms and COVID-19 Vaccination Intention\n\nplot(IN_Total ~ BC_Total, data = Mydata)\nabline(lm(IN_Total ~ BC_Total, data = Mydata), col = \"red\")\n\n\n\n\n\n\n\n\nIt’s observed that there is a linear relationship between Behavioral Control and COVID-19 Vaccination Intention\n\nplot(IN_Total ~ AT_Total, data = Mydata)\nabline(lm(IN_Total ~ AT_Total, data = Mydata), col = \"red\")\n\n\n\n\n\n\n\n\nIt’s observed that there is a linear relationship between Attitude toward Covid-19 vaccination and COVID-19 Vaccination Intention\n\n\nB2. Independence of observations\nThe covariances of errors must be cero.\nThe observation from our model are independent. This was fulfilled when each observation was made by one participant.\nEvaluation:\nUse the Durbin-Watson Test. This is useful to test autocorrelation of residuals that must be cero.\n\nlibrary(car) # In this package is Durbin-Watson Test\n\ndurbinWatsonTest(Intention_lm)\n\n lag Autocorrelation D-W Statistic p-value\n   1      -0.1210717      2.241997       0\n Alternative hypothesis: rho != 0\n\n\nH0: There is not correlation among the residuals. H1: The residuals are autocorrelated.\nIf the p-value is less than 0.05, you would reject the null hypothesis and conclude that there is evidence of autocorrelation in the residuals.\nIf the p-value is greater than 0.05, you would fail to reject the null hypothesis, suggesting that there is insufficient evidence to conclude that there is autocorrelation in the residuals.\nIn this result, since the p-value (0.002) is less than 0.05, we would conclude that there is evidence of autocorrelation in the residuals.\nAlthough, It was mention that D-W statistic is between 0 to 4. Values between 1.5 and 2.5 is ok. Therefore, in this test, we will consider it. In this study it was 2.24 which mean that is ok.\n\n\nB3. Homocedasticity\nThe residuals are distribuided homogeneusly on the dependent variable. So they have iqual variance.\nEvaluation: - Diagrama de dispersión, Harrison-McCabe or Goldfeld-Quandt tests.\nGoldfeld-Quandt tests\n\n# install.packages(\"lmtest\")\n\nlibrary(lmtest)\n\ngqtest(Intention_lm)\n\n\n    Goldfeld-Quandt test\n\ndata:  Intention_lm\nGQ = 1.0384, df1 = 272, df2 = 271, p-value = 0.3781\nalternative hypothesis: variance increases from segment 1 to 2\n\n\nH0: residuals have homogeneous variance. H1: residuals haven’t homogeneous variance.\nAs p value was 0.3781 greater than 0.05, We have insufficient evidence to reject the null hypothesis. So we can say that residuals have homogeneous variance.\nHarrison-McCabe test\n\nhmctest(Intention_lm)\n\n\n    Harrison-McCabe test\n\ndata:  Intention_lm\nHMC = 0.49002, p-value = 0.369\n\n\nH0: residuals have homogeneous variance. H1: residuals haven’t homogeneous variance.\nAs p value was 0.379 greater than 0.05, We have insufficient evidence to reject the null hypothesis. So we can say that residuals have homogeneous variance.\n\n\nB4. Normality of Errors\nThe residuals show a normal distribution.\nEvaluation: - Residuals distribution, Q-Q plot, and Shapiro-Wilk test.\n\nhist(residuals(Intention_lm)) \n\n\n\n\n\n\n\n\n\npar(mfrow=c(2,2))\nplot(Intention_lm)\n\n\n\n\n\n\n\npar(mfrow=c(1,1))"
   },
   {
-    "objectID": "research/articles/agentbased-aburto-2023/index.html#abstract",
-    "href": "research/articles/agentbased-aburto-2023/index.html#abstract",
-    "title": "Earned Value Management Agent-Based Simulation Model",
-    "section": "",
-    "text": "Agile project management (APM) can be defined as an iterative approach that promotes satisfying customer requirements, adjusts to change, and develops a working product in rapidly changing environments. Managers usually apply agile management as the project management approach in projects requiring extraordinary speed and flexibility in their processes. Earned value management (EVM) is a fundamental part of project management to establish practical measures. Often, managers use a task board to visually represent the work on a project and the path to completion. Still, managing an agile project can be a challenging endeavor. In this paper, we propose an agent-based model describing the management of tasks within a project using earned value assessment and a task board. Our model illustrates how EVM yields an efficient method to measure a project’s performance by comparing actual progress against planned activities, thus facilitating the formulation of more accurate predicted estimations. As proof of concept, we leverage our implementation to calculate EVM performance indexes according to a performance measurement baseline (PMB) in a task board fashion."
+    "objectID": "blog/2023/08/15/lineal-regression/index.html#c.-additional-information",
+    "href": "blog/2023/08/15/lineal-regression/index.html#c.-additional-information",
+    "title": "Consumer behavior: Determinants of COVID-19 vaccination intention using Planned Behavior Theory",
+    "section": "C. Additional information",
+    "text": "C. Additional information\n\nC1. Multicollinality:\nEvaluate if the IVs are redundant. This happen when VIs are highly correlated.\nEvaluation: - Tolerance (TOL) and Variance Inflation of Factor (VIF)\n\nvif(Intention_lm)\n\nSN_Total BC_Total AT_Total \n2.984366 1.899331 2.991759 \n\n\n\nlibrary(see)\nlibrary(performance)\n\nx&lt;-check_collinearity(Intention_lm)\nx\n\n# Check for Multicollinearity\n\nLow Correlation\n\n     Term  VIF   VIF 95% CI Increased SE Tolerance Tolerance 95% CI\n SN_Total 2.98 [2.61, 3.44]         1.73      0.34     [0.29, 0.38]\n BC_Total 1.90 [1.70, 2.16]         1.38      0.53     [0.46, 0.59]\n AT_Total 2.99 [2.62, 3.45]         1.73      0.33     [0.29, 0.38]\n\nplot(x)\n\n\n\n\n\n\n\n# los valores de VIF &lt;6\n\n\n\nC2. Diagnostics.\nEvaluation:\n\nCook distances.\n\nvalues don’t must be bigger than 1.\n\n#the car package (Companion to Applied Regression)\n\n# Load the car package\nlibrary(car)\n\n# Compute influence measures, including Cook's distance\ninfluence &lt;- influence.measures(Intention_lm)\n\n# Access Cook's distance from the influence object\ncook_dist &lt;- influence$infmat[,7] #I put [,7] because that its the column that contains cook distances.\n\nsummary(cook_dist)\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n0.000e+00 4.156e-05 3.211e-04 2.811e-03 1.619e-03 1.340e-01 \n\n# Plot Cook's distance\nplot(cook_dist, pch = 19, main = \"Cook's Distance Plot\")\nabline(h = 4 * mean(cook_dist), col = \"red\", lty = 2)\n\n\n\n\n\n\n\n\nInterpretation: It’s ok because any points is greater than 1."
   },
   {
-    "objectID": "research/articles/agentbased-aburto-2023/index.html#citation",
-    "href": "research/articles/agentbased-aburto-2023/index.html#citation",
-    "title": "Earned Value Management Agent-Based Simulation Model",
+    "objectID": "blog/2024/01/15/index.html",
+    "href": "blog/2024/01/15/index.html",
+    "title": "Consumer Behavior: status and factors associated with noncommunicable diseases in Peruvian consumers",
+    "section": "",
+    "text": "Introduction\n\n\nNon-communicable diseases are the leading causes of death worldwide. Efforts are being made to understand the factors associated with these diseases with the aim of proposing effective public policies that contribute to their reduction.\n\n\nMethodology\nProblem: What is the status and factors associated with non-communicable diseases in Peruvian consumers?\nObjective: To characterize the status and factors associated with non-communicable diseases in Peruvian consumers.\nTarget population: People over 15 years of age.\nData Base: INEI, Endes 2022\nMeasurement: Health and Household Questionnaire\nData preprocessing:\n\n\nDownload modules 1640 and 1629 of the Demographic and Family Health Survey in csv format.\n\n\nChange commas to dots in the CSALUD01 and RECH0 DBs. SQL considers the dots as referring to decimals, the comma interprets it as a strange character. When you download the INEI database, the decimals are separated by commas. Modify it with notepad or another tool.\n\n\n\n\nResults\n1. Open pgAdmin 4\n\n\n\n\n2. Create a new database\n\n\n\n\n3. Name the project and save.\n\n\n\n\n4. We will have the database created.\n\n\n\n\n5. We will open a Query Tool\n\n\n\n\n6. Now we will open the attached file\n\n\n\n\n7. You can see the document ProyectoQuery.sql\n\n\n\n\n8. Now we can read the data in postgreSQL\n\n\n\n\n\n\nConclusion\nIt is possible to analyze INEI databases using PostgreSQL."
+  },
+  {
+    "objectID": "blog/index.html#section",
+    "href": "blog/index.html#section",
+    "title": "Blog",
+    "section": "2024",
+    "text": "2024\n\n\n    \n    \n                  \n            January 30, 2024\n        \n        \n            Organizational Behavior: Geographic Distribution of Agricultural Units in Peru\n\n            \n            \n                \n                \n                    maps\n                \n                \n                \n                    r\n                \n                \n                \n                    INEI\n                \n                \n                \n                    agricultural\n                \n                \n            \n            \n\n            I conducted a comprehensive descriptive analysis using maps in RStudio, leveraging data from the 2019 National Agricultural Survey (ENA). The dataset was sourced from the National Institute of Statistics and Informatics (INEI) repository, providing a rich foundation for insightful spatial exploration and visualization.\n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n    \n                  \n            January 15, 2024\n        \n        \n            Consumer Behavior: status and factors associated with noncommunicable diseases in Peruvian consumers\n\n            \n            \n                \n                \n                    postgreSQL\n                \n                \n                \n                    INEI\n                \n                \n            \n            \n\n            I analize data to understand the status and factors associated with noncommunicable diseases in Peruvian consumers from INEI using PostgreSQL by pgAdmin 4 tool.\n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/index.html#section-1",
+    "href": "blog/index.html#section-1",
+    "title": "Blog",
+    "section": "2023",
+    "text": "2023\n\n\n    \n    \n                  \n            September 18, 2023\n        \n        \n            Organizational Behavior: Creating the scraper GREAT PLACE TO WORK\n\n            \n            \n                \n                \n                    webscraping\n                \n                \n                \n                    r\n                \n                \n                \n                    webpage\n                \n                \n                \n                    organizational climate\n                \n                \n            \n            \n\n            Creating a web scraper using RStudio to extract data from the Great Place to Work website offers a powerful means of accessing and analyzing this valuable information. By harnessing the capabilities of R and its diverse ecosystem of packages, you can automate the extraction of data on workplace rankings, employee counts, industry trends, and geographical locations.\n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n    \n                  \n            August 15, 2023\n        \n        \n            Consumer behavior: Determinants of COVID-19 vaccination intention using Planned Behavior Theory\n\n            \n            \n                \n                \n                    covid-19\n                \n                \n                \n                    multiple regression analysis\n                \n                \n                \n                    Planned Behavior theory\n                \n                \n                \n                    r\n                \n                \n            \n            \n\n            I make a secondary analysis using multiple regression analysis. I used the data from Drążkowski & Trepanowski (2022) which was published in a open source repository.\n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "I’m an research assistant at the University of the Pacific’s Research Center (CIUP). I’m a student of the Specialization Diploma in Data Science for Social Sciences and Management of the Pontifical Catholic University of Peru (PUCP). I hold a Bachelor’s degree in Organizational and Human Management Psychology from the National University of San Marcos (UNMSM) in 2022.\nI’m a member of Avances en Medición Psicológica (AMP), a group of students interested in quantitative research and psychological measurement. Also, member of BehData, a group of professionals interested in behavioral data science."
+  },
+  {
+    "objectID": "research/articles/plssem-aburto-2023/index.html",
+    "href": "research/articles/plssem-aburto-2023/index.html",
+    "title": "Entrepreneurial intention in master of business administration students at Colombian universities: the moderating role of perceived behavioral control",
+    "section": "",
+    "text": "The main objective of this research study is to determine whether perceived behavioral control has a moderating role in the influence of attitude toward entrepreneurship and subjective norms on entrepreneurial intention. The sample consists of 159 master of business administration (MBA) students from four Colombian universities. The methodological design is cross-sectional and explanatory and applies the partial least squares structural equation modeling (PLS-SEM). The results show that there is no evidence to suggest that perceived behavioral control moderates the relationship between attitude toward entrepreneurship and entrepreneurial intention. In addition, there is no evidence to infer that perceived behavioral control moderates the relationship between subjective norms and entrepreneurial intention. In conclusion, the current model of the theory of planned behavior provides no empirical support for explaining the entrepreneurial intention of MBA students from four different Colombian universities."
+  },
+  {
+    "objectID": "research/articles/plssem-aburto-2023/index.html#abstract",
+    "href": "research/articles/plssem-aburto-2023/index.html#abstract",
+    "title": "Entrepreneurial intention in master of business administration students at Colombian universities: the moderating role of perceived behavioral control",
+    "section": "",
+    "text": "The main objective of this research study is to determine whether perceived behavioral control has a moderating role in the influence of attitude toward entrepreneurship and subjective norms on entrepreneurial intention. The sample consists of 159 master of business administration (MBA) students from four Colombian universities. The methodological design is cross-sectional and explanatory and applies the partial least squares structural equation modeling (PLS-SEM). The results show that there is no evidence to suggest that perceived behavioral control moderates the relationship between attitude toward entrepreneurship and entrepreneurial intention. In addition, there is no evidence to infer that perceived behavioral control moderates the relationship between subjective norms and entrepreneurial intention. In conclusion, the current model of the theory of planned behavior provides no empirical support for explaining the entrepreneurial intention of MBA students from four different Colombian universities."
+  },
+  {
+    "objectID": "research/articles/plssem-aburto-2023/index.html#citation",
+    "href": "research/articles/plssem-aburto-2023/index.html#citation",
+    "title": "Entrepreneurial intention in master of business administration students at Colombian universities: the moderating role of perceived behavioral control",
     "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@article{CastanonEtAl:2023,\n    Author = {Manuel Castañón-Puga, Ricardo Fernando Rosales-Cisneros, Julio C. Acosta-Prado, Alfredo Tirado-Ramos, Camilo Khatchikian, and Elías Aburto-Camacllanqui},\n    Doi = {10.4067/S0718-50062023000300031},\n    Journal = {Systems},\n    Number = {2},\n    Pages = {86},\n    Title = {Earned Value Management Agent-Based Simulation Model},\n    Volume = {11},\n    Year = {2023}}"
-  },
-  {
-    "objectID": "research/chapters/chaudhry-heiss-closing-space/index.html",
-    "href": "research/chapters/chaudhry-heiss-closing-space/index.html",
-    "title": "Closing Space and the Restructuring of Global Activism: Causes and Consequences of the Global Crackdown on NGOs",
-    "section": "",
-    "text": "Figure 1: 2017 CIVICUS Monitor civic space ratings\n\n\n\nFigure 1: 2017 CIVICUS Monitor civic space ratings"
-  },
-  {
-    "objectID": "research/chapters/chaudhry-heiss-closing-space/index.html#important-figure",
-    "href": "research/chapters/chaudhry-heiss-closing-space/index.html#important-figure",
-    "title": "Closing Space and the Restructuring of Global Activism: Causes and Consequences of the Global Crackdown on NGOs",
-    "section": "",
-    "text": "Figure 1: 2017 CIVICUS Monitor civic space ratings\n\n\n\nFigure 1: 2017 CIVICUS Monitor civic space ratings"
-  },
-  {
-    "objectID": "research/chapters/chaudhry-heiss-closing-space/index.html#citation",
-    "href": "research/chapters/chaudhry-heiss-closing-space/index.html#citation",
-    "title": "Closing Space and the Restructuring of Global Activism: Causes and Consequences of the Global Crackdown on NGOs",
-    "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@incollection{ChaudhryHeiss:2022,\n    Address = {Tuscaloosa, AL},\n    Author = {Suparna Chaudhry and Andrew Heiss},\n    Booktitle = {Beyond the Boomerang: New Patterns in Transcalar Advocacy},\n    Editor = {Christopher L. Pallas and Elizabeth Bloodgood},\n    Publisher = {University of Alabama Press},\n    Title = {Closing Space and the Restructuring of Global Activism: Causes and Consequences of the Global Crackdown on {NGOs}},\n    Chapter = {2},\n    Year = {2022}}"
-  },
-  {
-    "objectID": "research/chapters/heiss-ngo-ir-2019/index.html",
-    "href": "research/chapters/heiss-ngo-ir-2019/index.html",
-    "title": "NGOs and Authoritarianism",
-    "section": "",
-    "text": "Authoritarian restrictions on domestic and international civil society have increased over the past decade, but authoritarian states continue to allow—and even invite—NGOs to work in their countries. Though the services and advocacy provided by NGOs can challenge the legitimacy and power of authoritarian regimes, the majority of autocratic states allow NGO activities, and NGOs in turn continue to work in these countries in spite of the heavy legal restrictions and attempts to limit their activities. This chapter examines the theories about and the experiences of domestic and international NGOs working in authoritarian countries. The review is premised on the theory of authoritarian institutions: dictators delegate political authority to democratic-appearing institutions in order to remain in power and maintain stability. After providing a brief overview of authoritarian institutionalism and balancing, I discuss how domestic and international NGOs fit into authoritarian stability-seeking calculus. I then look at three forms of state–NGO relationships in the context of authoritarianism and explore how autocrats have addressed and regulated international NGOs in particular. Finally, I conclude with suggestions for future research on NGOs and their relationship with and role in authoritarian regimes."
-  },
-  {
-    "objectID": "research/chapters/heiss-ngo-ir-2019/index.html#abstract",
-    "href": "research/chapters/heiss-ngo-ir-2019/index.html#abstract",
-    "title": "NGOs and Authoritarianism",
-    "section": "",
-    "text": "Authoritarian restrictions on domestic and international civil society have increased over the past decade, but authoritarian states continue to allow—and even invite—NGOs to work in their countries. Though the services and advocacy provided by NGOs can challenge the legitimacy and power of authoritarian regimes, the majority of autocratic states allow NGO activities, and NGOs in turn continue to work in these countries in spite of the heavy legal restrictions and attempts to limit their activities. This chapter examines the theories about and the experiences of domestic and international NGOs working in authoritarian countries. The review is premised on the theory of authoritarian institutions: dictators delegate political authority to democratic-appearing institutions in order to remain in power and maintain stability. After providing a brief overview of authoritarian institutionalism and balancing, I discuss how domestic and international NGOs fit into authoritarian stability-seeking calculus. I then look at three forms of state–NGO relationships in the context of authoritarianism and explore how autocrats have addressed and regulated international NGOs in particular. Finally, I conclude with suggestions for future research on NGOs and their relationship with and role in authoritarian regimes."
-  },
-  {
-    "objectID": "research/chapters/heiss-ngo-ir-2019/index.html#figure",
-    "href": "research/chapters/heiss-ngo-ir-2019/index.html#figure",
-    "title": "NGOs and Authoritarianism",
-    "section": "Figure",
-    "text": "Figure\nFigure 2: Civil society repression and regulations\n\n\n\nFigure 2: Civil society repression and regulations"
-  },
-  {
-    "objectID": "research/chapters/heiss-ngo-ir-2019/index.html#citation",
-    "href": "research/chapters/heiss-ngo-ir-2019/index.html#citation",
-    "title": "NGOs and Authoritarianism",
-    "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@incollection{Heiss:2019,\n    Address = {London},\n    Author = {Andrew Heiss},\n    Booktitle = {Routledge Handbook of {NGOs} and International Relations},\n    Editor = {Thomas Davies},\n    Publisher = {Routledge},\n    Title = {{NGOs} and Authoritarianism},\n    Chapter = {38},\n    Year = {2019}}"
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "My primary research areas include mixed methods research, psychometrics, organizational behavior, and consumer behavior. I do research in topics like teamwork, materialism, frugality, self-control, and life’s satisfaction."
-  },
-  {
-    "objectID": "research/index.html#journal-articles",
-    "href": "research/index.html#journal-articles",
-    "title": "Research",
-    "section": "Journal articles",
-    "text": "Journal articles\n\n\n\n    \n        \n            \n                Manuel Castañón-Puga, Ricardo Fernando Rosales-Cisneros, Julio C. Acosta-Prado, Alfredo Tirado-Ramos, Camilo Khatchikian, and Elías Aburto-Camacllanqui, “Earned Value Management Agent-Based Simulation Model 11, no. 2 (2023):86, doi: 10.3390/systems11020086\n            \n\n            \n            \n                \n                    \n                            agile development\n                        \n                    \n                    \n                            earned value management\n                        \n                    \n                    \n                            task board\n                        \n                    \n                    \n                            agent-based simulation\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                Julio C. Acosta-Prado, Rodrigo A. Zárate-Torres, and Elías Aburto-Camacllanqui, “La intención emprendedora en estudiantes de maestría en administración de empresas de universidades colombianas: el rol moderador del control del comportamiento percibido 16, no. 3 (2023):31–40, doi: 10.4067/S0718-50062023000300031\n            \n\n            \n            \n                \n                    \n                            entrepreneurial intention\n                        \n                    \n                    \n                            perceived behavioral control\n                        \n                    \n                    \n                            master of business administration\n                        \n                    \n                    \n                            MBA students\n                        \n                    \n                    \n                            theory of planned behavior\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/reviews/heiss-voluntas-review-2014/index.html",
-    "href": "research/reviews/heiss-voluntas-review-2014/index.html",
-    "title": "Review of Manufacturing Civil Society: Principles, Practices, and Effects, ed. Taco Brandsen, Willem Trommel, and Bram Verschuere",
-    "section": "",
-    "text": "Add to Zotero \n\n@article{Heiss:2015,\n    author = {Andrew Heiss},\n    doi = {10.1007/s11266-014-9541-3},\n    journal = {Voluntas: International Journal of Voluntary and Nonprofit Organizations},\n    pages = {728--730},\n    titleaddon = {\\bibstring{reviewof} Taco Brandsen, Willem Trommel, and Bram Verschuere (eds.), \\mkbibemph{Manufacturing Civil Society: Principles, Practices, and Effects}},\n    volume = {26},\n    year = {2015}}"
-  },
-  {
-    "objectID": "research/reviews/heiss-voluntas-review-2014/index.html#citation",
-    "href": "research/reviews/heiss-voluntas-review-2014/index.html#citation",
-    "title": "Review of Manufacturing Civil Society: Principles, Practices, and Effects, ed. Taco Brandsen, Willem Trommel, and Bram Verschuere",
-    "section": "",
-    "text": "Add to Zotero \n\n@article{Heiss:2015,\n    author = {Andrew Heiss},\n    doi = {10.1007/s11266-014-9541-3},\n    journal = {Voluntas: International Journal of Voluntary and Nonprofit Organizations},\n    pages = {728--730},\n    titleaddon = {\\bibstring{reviewof} Taco Brandsen, Willem Trommel, and Bram Verschuere (eds.), \\mkbibemph{Manufacturing Civil Society: Principles, Practices, and Effects}},\n    volume = {26},\n    year = {2015}}"
-  },
-  {
-    "objectID": "research/working-papers/chaudhry-comstock-heiss-pandemic-pass/index.html",
-    "href": "research/working-papers/chaudhry-comstock-heiss-pandemic-pass/index.html",
-    "title": "Pandemic Pass? Treaty Derogations and Human Rights Practices During COVID-19",
-    "section": "",
-    "text": "Statistical analysis notebook\nGitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/chaudhry-comstock-heiss-pandemic-pass/index.html#important-links",
-    "href": "research/working-papers/chaudhry-comstock-heiss-pandemic-pass/index.html#important-links",
-    "title": "Pandemic Pass? Treaty Derogations and Human Rights Practices During COVID-19",
-    "section": "",
-    "text": "Statistical analysis notebook\nGitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/chaudhry-heiss-derogations/index.html",
-    "href": "research/working-papers/chaudhry-heiss-derogations/index.html",
-    "title": "Derogations and Democratic Backsliding: Exploring the Pandemic’s Effects on Civic Spaces",
-    "section": "",
-    "text": "Paper (preprint)\nStatistical analysis notebook\nGitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/chaudhry-heiss-derogations/index.html#important-links",
-    "href": "research/working-papers/chaudhry-heiss-derogations/index.html#important-links",
-    "title": "Derogations and Democratic Backsliding: Exploring the Pandemic’s Effects on Civic Spaces",
-    "section": "",
-    "text": "Paper (preprint)\nStatistical analysis notebook\nGitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/chaudhry-heiss-derogations/index.html#abstract",
-    "href": "research/working-papers/chaudhry-heiss-derogations/index.html#abstract",
-    "title": "Derogations and Democratic Backsliding: Exploring the Pandemic’s Effects on Civic Spaces",
-    "section": "Abstract",
-    "text": "Abstract\nIn an effort to combat the COVID-19 pandemic, most governments have imposed restrictions on movement, association, and other civic freedoms in the interest of public health. In many cases, such as New Zealand, these emergency measures have been temporary and respect for human rights has returned to normal. In many other instances, however, governments have used these restrictions to suppress opposition and more permanently restrict civic space. Systematically measuring the consequences of COVID restrictions, however, is a difficult task. We will examine two possible quantitative measures of the relationship between of COVID restrictions and civil society space. First, we will use the Variety of Democracy project’s newly released Pandemic Violations of Democratic Standards Index to explore if and how civil society restrictions predict pandemic backsliding. Second, while many countries sign international human rights treaties that ostensibly bind states to respect rights, several treaties allow for emergency derogations from these obligations. We will tabulate formal human rights treaty derogations due to the pandemic and explore whether these emergency measures led to lasting declines in associational and human rights. We hope that our exploration of these two measures will provide rich data-based descriptions of the relationship between COVID restrictions and civic space that will allow for more causal work in the future."
-  },
-  {
-    "objectID": "research/working-papers/chaudhry-heiss-derogations/index.html#important-figure",
-    "href": "research/working-papers/chaudhry-heiss-derogations/index.html#important-figure",
-    "title": "Derogations and Democratic Backsliding: Exploring the Pandemic’s Effects on Civic Spaces",
-    "section": "Important figure",
-    "text": "Important figure\nFigure 5: Derogation decisions across pandemic violations and pandemic backsliding\n\n\n\nFigure 5: Derogation decisions across pandemic violations and pandemic backsliding"
-  },
-  {
-    "objectID": "research/working-papers/chaudhry-heiss-derogations/index.html#bibtex-citation",
-    "href": "research/working-papers/chaudhry-heiss-derogations/index.html#bibtex-citation",
-    "title": "Derogations and Democratic Backsliding: Exploring the Pandemic’s Effects on Civic Spaces",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@unpublished{ChaudhryHeiss:2021,\n    Author = {Suparna Chaudhry and Andrew Heiss},\n    Note = {Working paper},\n    Title = {Derogations and Democratic Backsliding: Exploring the Pandemic's Effects on Civic Spaces},\n    Year = {2021}}"
-  },
-  {
-    "objectID": "research/working-papers/heiss-amicable-contempt/index.html",
-    "href": "research/working-papers/heiss-amicable-contempt/index.html",
-    "title": "Amicable Contempt: A Conceptual Framework for Understanding International NGO Behavior in the Era of Closing Civic Space",
-    "section": "",
-    "text": "GitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/heiss-amicable-contempt/index.html#important-links",
-    "href": "research/working-papers/heiss-amicable-contempt/index.html#important-links",
-    "title": "Amicable Contempt: A Conceptual Framework for Understanding International NGO Behavior in the Era of Closing Civic Space",
-    "section": "",
-    "text": "GitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/heiss-amicable-contempt/index.html#abstract",
-    "href": "research/working-papers/heiss-amicable-contempt/index.html#abstract",
-    "title": "Amicable Contempt: A Conceptual Framework for Understanding International NGO Behavior in the Era of Closing Civic Space",
-    "section": "Abstract",
-    "text": "Abstract\nOver the past decade, international NGOs (INGOs) have become increasingly active in authoritarian regimes as they respond to emergencies, assist with development, or advocate for human rights. Though these services and advocacy can challenge the legitimacy and power of the regime, many autocratic states permit INGO activities and INGOs continue to work in these countries despite the sometimes heavy restrictions on their activities. In my dissertation, I theorize that this relationship between INGOs and autocrats creates a state of amicable contempt, where each party is aware that the other threatens—yet sustains—their existence. Autocrats and INGOs engage in a dance of cost-benefit calculus, each trying to advance their own agenda without upsetting their counterpart. Regimes work to set the optimal level of INGO regulations, maximizing the practical and reputational benefits that INGOs provide and minimizing the potential destabilizing costs of INGO activities. Meanwhile, INGOs work to find the optimal mix of programming within a country that allows them to pursue their principled objectives within the boundaries the regime has set—affecting as much change and providing as many services as possible without risking expulsion from the country. I use evidence from a global survey of international NGOs to define each INGO-related element of the theory of amicable contempt. I find that INGOs are primarily motivated by their core vision and values, but that they have to balance the pursuit of their missions with instrumental concerns such as fundraising, time, staffing, and collaboration. These concerns both limit and enable INGO activities—without substantial instrumental resources and programmatic flexibility, organizations are unable to carry out their mission, while too much emphasis on resource concerns distracts organizations from their core programming and reduces their effectiveness."
-  },
-  {
-    "objectID": "research/working-papers/heiss-nafa-bayes-ipw/index.html",
-    "href": "research/working-papers/heiss-nafa-bayes-ipw/index.html",
-    "title": "Taking Uncertainty Seriously: Bayesian Marginal Structural Models for Causal Inference in Political Science",
-    "section": "",
-    "text": "GitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/heiss-nafa-bayes-ipw/index.html#important-links",
-    "href": "research/working-papers/heiss-nafa-bayes-ipw/index.html#important-links",
-    "title": "Taking Uncertainty Seriously: Bayesian Marginal Structural Models for Causal Inference in Political Science",
-    "section": "",
-    "text": "GitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/heiss-nafa-bayes-ipw/index.html#abstract",
-    "href": "research/working-papers/heiss-nafa-bayes-ipw/index.html#abstract",
-    "title": "Taking Uncertainty Seriously: Bayesian Marginal Structural Models for Causal Inference in Political Science",
-    "section": "Abstract",
-    "text": "Abstract\nThe past two decades have been characterized by considerable progress in developing approaches to causal inference in situations where true experimental manipulation is either impractical or impossible. With few exceptions, however, commonly employed techniques in political science have developed largely within the frequentist framework (i.e., Blackwell and Glynn 2018; Imai and Kim 2019; Torres 2020). In this article, we argue that common approaches rest fundamentally upon assumptions that are difficult to defend in many areas of political research and highlight the benefits of quantifying uncertainty in the estimation of causal effects (Gill 1999; Gill and Heuberger 2020; Schrodt 2014; Western and Jackman 1994). Extending the approach to causal inference for cross-sectional time series and panel data under selection on observables introduced by Blackwell and Glynn (2018), we develop a two-step Bayesian approach to the estimation of marginal structural models. We demonstrate our proposed procedure in the context of parametric survival analysis and linear mixed effects models via a simulation study and two empirical examples. Finally, we provide flexible open-source software implementing the proposed method."
-  },
-  {
-    "objectID": "research/working-papers/heiss-nafa-bayes-ipw/index.html#bibtex-citation",
-    "href": "research/working-papers/heiss-nafa-bayes-ipw/index.html#bibtex-citation",
-    "title": "Taking Uncertainty Seriously: Bayesian Marginal Structural Models for Causal Inference in Political Science",
-    "section": "BibTeX citation",
-    "text": "BibTeX citation\n@unpublished{HeissNafa:2022,\n    Author = {Andrew Heiss and A. Jordan Nafa},\n    Note = {Working paper},\n    Title = {Taking Uncertainty Seriously: Bayesian Marginal Structural Models for Causal Inference in Political Science},\n    Year = {2022}}"
-  },
-  {
-    "objectID": "research/working-papers/heiss-ye-china-ongos/index.html",
-    "href": "research/working-papers/heiss-ye-china-ongos/index.html",
-    "title": "The Implementation of China’s Overseas NGO Law and the Operating Space for International Civil Society",
-    "section": "",
-    "text": "GitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/heiss-ye-china-ongos/index.html#important-links",
-    "href": "research/working-papers/heiss-ye-china-ongos/index.html#important-links",
-    "title": "The Implementation of China’s Overseas NGO Law and the Operating Space for International Civil Society",
-    "section": "",
-    "text": "GitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/heiss-ye-china-ongos/index.html#abstract",
-    "href": "research/working-papers/heiss-ye-china-ongos/index.html#abstract",
-    "title": "The Implementation of China’s Overseas NGO Law and the Operating Space for International Civil Society",
-    "section": "Abstract",
-    "text": "Abstract\nChina’s 2017 Overseas NGO (ONGO) Law is part of a larger global trend of legal restrictions on international NGOs (INGOs). However, the effects of this global crackdown on INGOs have been difficult to measure since there is often divergence between the formal de jure regulations and the de facto implementation of these laws. The enforcement of these laws also depends on the services provided by these organizations. In particular, authoritarian regimes display conflicting attitudes towards claim-making (e.g. advocacy) INGOs versus service-providing (e.g. humanitarian assistance) INGOs. In this paper, we measure the effect of China’s ONGO law on INGO operations since 2017. We test how INGO operational flexibility under the ONGO law is influenced by organizations’ issue areas. We argue that service provision INGOs have greater flexibility and are allowed to work in a larger number of provinces than their claim-making counterparts. China provides an excellent setting for testing our claim—the 2017 ONGO law regulates both claim-making and service-providing NGOs, and ambiguity in the law gives ample room for arbitrary discretion by authorities. We test our argument using multilevel Bayesian models with administrative data from 635 registered representative offices of INGOs registered in China between 2017–2021. Our results speak to the broader literature on closing civic space and provide an empirical illustration of the practical effect of NGO restrictions on global civil society."
+    "text": "Citation\n\n Add to Zotero \n\n@article{AcostaEtAl:2023,\n    Author = {Julio C. Acosta-Prado, Rodrigo A. Zárate-Torres, and Elías Aburto-Camacllanqui},\n    Doi = {10.4067/S0718-50062023000300031},\n    Journal = {Formación Universitaria},\n    Number = {3},\n    Pages = {31--40},\n    Title = {La intención emprendedora en estudiantes de maestría en administración de empresas de                universidades colombianas: el rol moderador del control del comportamiento percibido},\n    Volume = {16},\n    Year = {2023}}"
   }
 ]
