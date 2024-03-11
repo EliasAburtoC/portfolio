@@ -1,0 +1,734 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1002/9780470316696",
+            "author": [
+                {
+                    "family": "Rubin",
+                    "given": "Donald B."
+                }
+            ],
+            "id": "Rubin:1987",
+            "issued": {
+                "date-parts": [
+                    [
+                        1987
+                    ]
+                ]
+            },
+            "publisher": "John Wiley & Sons",
+            "publisher-place": "New York",
+            "title": "Multiple imputation for nonresponse in surveys",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1111/biom.12273",
+            "author": [
+                {
+                    "family": "Robins",
+                    "given": "James M."
+                },
+                {
+                    "family": "Hernán",
+                    "given": "Miguel A."
+                },
+                {
+                    "family": "Wasserman",
+                    "given": "Larry"
+                }
+            ],
+            "container-title": "Biometrics",
+            "id": "RobinsHernanWasserman:2015",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        6
+                    ]
+                ]
+            },
+            "page": "296-299",
+            "title": "On Bayesian estimation of marginal structural models",
+            "type": "article-journal",
+            "volume": "71"
+        },
+        {
+            "DOI": "10.1111/biom.12269",
+            "author": [
+                {
+                    "family": "Saarela",
+                    "given": "Olli"
+                },
+                {
+                    "family": "Stephens",
+                    "given": "David A."
+                },
+                {
+                    "family": "Moodie",
+                    "given": "Erica E. M."
+                },
+                {
+                    "family": "Klein",
+                    "given": "Marina B."
+                }
+            ],
+            "container-title": "Biometrics",
+            "id": "SaarelaStephensMoodie:2015",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        6
+                    ]
+                ]
+            },
+            "page": "279-288",
+            "title": "On bayesian estimation of marginal structural models",
+            "type": "article-journal",
+            "volume": "71"
+        },
+        {
+            "DOI": "10.1002/sim.8486",
+            "author": [
+                {
+                    "family": "Liao",
+                    "given": "Shirley X."
+                },
+                {
+                    "family": "Zigler",
+                    "given": "Corwin M."
+                }
+            ],
+            "container-title": "Statistics in Medicine",
+            "id": "LiaoZigler:2020",
+            "issue": "17",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        7
+                    ]
+                ]
+            },
+            "page": "2265-2290",
+            "title": "Uncertainty in the design stage of two-stage bayesian propensity score analysis",
+            "type": "article-journal",
+            "volume": "39"
+        },
+        {
+            "DOI": "10.1080/00031305.2015.1111260",
+            "author": [
+                {
+                    "family": "Zigler",
+                    "given": "Corwin Matthew"
+                }
+            ],
+            "container-title": "The American Statistician",
+            "id": "Zigler:2016",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        3
+                    ]
+                ]
+            },
+            "page": "47-54",
+            "title": "The central role of Bayes’ theorem for joint estimation of causal effects and propensity scores",
+            "type": "article-journal",
+            "volume": "70"
+        },
+        {
+            "DOI": "10.1017/psrm.2019.31",
+            "author": [
+                {
+                    "family": "Keele",
+                    "given": "Luke"
+                },
+                {
+                    "family": "Stevenson",
+                    "given": "Randolph T."
+                },
+                {
+                    "family": "Elwert",
+                    "given": "Felix"
+                }
+            ],
+            "container-title": "Political Science Research and Methods",
+            "id": "KeeleStevensonElwert:2020",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        1
+                    ]
+                ]
+            },
+            "page": "1-13",
+            "title": "The causal interpretation of estimated associations in regression models",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "DOI": "10.1016/j.ecosta.2021.07.006",
+            "author": [
+                {
+                    "family": "Kneib",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Silbersdorff",
+                    "given": "Alexander"
+                },
+                {
+                    "family": "Säfken",
+                    "given": "Benjamin"
+                }
+            ],
+            "container-title": "Econometrics and Statistics",
+            "id": "KneibSilbersdorffSafken:2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "title": "Rage against the mean—a review of distributional regression approaches",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1177/0010414006297342",
+            "author": [
+                {
+                    "family": "Tripp",
+                    "given": "Aili Mari"
+                },
+                {
+                    "family": "Kang",
+                    "given": "Alice"
+                }
+            ],
+            "container-title": "Comparative Political Studies",
+            "id": "TrippKang:2008",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008,
+                        3
+                    ]
+                ]
+            },
+            "page": "338-361",
+            "title": "The global impact of quotas: On the fast track to increased female legislative representation",
+            "title-short": "The global impact of quotas",
+            "type": "article-journal",
+            "volume": "41"
+        },
+        {
+            "URL": "https://www.bradyneal.com/causal-inference-course",
+            "author": [
+                {
+                    "family": "Neal",
+                    "given": "Brady"
+                }
+            ],
+            "id": "Neal:2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "title": "Introduction to causal inference from a machine learning perspective",
+            "type": "book"
+        },
+        {
+            "URL": "https://dl.acm.org/doi/10.5555/3020652.3020654",
+            "author": [
+                {
+                    "family": "Pearl",
+                    "given": "Judea"
+                }
+            ],
+            "collection-title": "UAI’12",
+            "container-title": "Proceedings of the twenty-eighth conference on uncertainty in artificial intelligence",
+            "id": "Pearl:2012",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012,
+                        8
+                    ]
+                ]
+            },
+            "page": "3-11",
+            "publisher": "AUAI Press",
+            "publisher-place": "Arlington, Virginia",
+            "title": "The <i>do</i>-calculus revisited",
+            "type": "paper-conference"
+        },
+        {
+            "URL": "https://arxiv.org/abs/1906.07125",
+            "author": [
+                {
+                    "family": "Lattimore",
+                    "given": "Finnian"
+                },
+                {
+                    "family": "Rohde",
+                    "given": "David"
+                }
+            ],
+            "id": "LattimoreRohde:2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        12,
+                        5
+                    ]
+                ]
+            },
+            "title": "Replacing the do-calculus with bayes rule",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1257/aer.20181169",
+            "author": [
+                {
+                    "family": "Chaisemartin",
+                    "given": "Clément",
+                    "non-dropping-particle": "de"
+                },
+                {
+                    "family": "Haultfoeuille",
+                    "given": "Xavier",
+                    "non-dropping-particle": "d’"
+                }
+            ],
+            "container-title": "American Economic Review",
+            "id": "de-ChaisemartindHaultfoeuille:2020",
+            "issue": "9",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        9
+                    ]
+                ]
+            },
+            "page": "2964-2996",
+            "title": "Two-way fixed effects estimators with heterogeneous treatment effects",
+            "type": "article-journal",
+            "volume": "110"
+        },
+        {
+            "DOI": "10.1016/j.jeconom.2021.03.014",
+            "author": [
+                {
+                    "family": "Goodman-Bacon",
+                    "given": "Andrew"
+                }
+            ],
+            "container-title": "Journal of Econometrics",
+            "id": "Goodman-Bacon:2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        6
+                    ]
+                ]
+            },
+            "title": "Difference-in-differences with variation in treatment timing",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1016/j.jeconom.2020.09.006",
+            "author": [
+                {
+                    "family": "Sun",
+                    "given": "Liyang"
+                },
+                {
+                    "family": "Abraham",
+                    "given": "Sarah"
+                }
+            ],
+            "container-title": "Journal of Econometrics",
+            "id": "SunAbraham:2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12
+                    ]
+                ]
+            },
+            "title": "Estimating dynamic treatment effects in event studies with heterogeneous treatment effects",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1016/j.jeconom.2020.12.001",
+            "author": [
+                {
+                    "family": "Callaway",
+                    "given": "Brantly"
+                },
+                {
+                    "family": "Sant’Anna",
+                    "given": "Pedro H. C."
+                }
+            ],
+            "container-title": "Journal of Econometrics",
+            "id": "CallawaySantAnna:2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12
+                    ]
+                ]
+            },
+            "title": "Difference-in-differences with multiple time periods",
+            "type": "article-journal"
+        },
+        {
+            "URL": "https://arxiv.org/abs/2103.13229",
+            "author": [
+                {
+                    "family": "Jakiela",
+                    "given": "Pamela"
+                }
+            ],
+            "id": "Jakiela:2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        24
+                    ]
+                ]
+            },
+            "title": "Simple diagnostics for two-way fixed effects",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.2139/ssrn.3794018",
+            "author": [
+                {
+                    "family": "Baker",
+                    "given": "Andrew"
+                },
+                {
+                    "family": "Larcker",
+                    "given": "David F."
+                },
+                {
+                    "family": "Wang",
+                    "given": "Charles C. Y."
+                }
+            ],
+            "genre": "Working paper",
+            "id": "BakerLarckerWang:2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "number": "246",
+            "publisher": "Rock Center for Corporate Governance at Stanford University",
+            "title": "How much should we trust staggered difference-in-differences estimates?",
+            "type": "report"
+        },
+        {
+            "DOI": "10.1080/10691898.2001.11910646",
+            "author": [
+                {
+                    "family": "Ip",
+                    "given": "Edward H. S."
+                }
+            ],
+            "container-title": "Journal of Statistics Education",
+            "id": "Ip:2001",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001
+                    ]
+                ]
+            },
+            "title": "Visualizing multiple regression",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "DOI": "10.3758/BF03204399",
+            "author": [
+                {
+                    "family": "Hunt",
+                    "given": "Earl"
+                }
+            ],
+            "container-title": "Behavior Research Methods, Instruments, & Computers",
+            "id": "Hunt:1986",
+            "issued": {
+                "date-parts": [
+                    [
+                        1986,
+                        5
+                    ]
+                ]
+            },
+            "page": "277-284",
+            "title": "The design of ballantines",
+            "type": "article-journal",
+            "volume": "28"
+        },
+        {
+            "author": [
+                {
+                    "family": "Cohen",
+                    "given": "Jacob"
+                },
+                {
+                    "family": "Cohen",
+                    "given": "Patricia"
+                }
+            ],
+            "id": "CohenCohen:1975",
+            "issued": {
+                "date-parts": [
+                    [
+                        1975
+                    ]
+                ]
+            },
+            "publisher": "Lawrence Erlbaum Associates",
+            "publisher-place": "New Jersey",
+            "title": "Applied multiple regression/correlation analysis for the behavioral sciences",
+            "type": "book"
+        },
+        {
+            "URL": "https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/",
+            "author": [
+                {
+                    "family": "Hernán",
+                    "given": "Miguel A."
+                },
+                {
+                    "family": "Robins",
+                    "given": "James M."
+                }
+            ],
+            "id": "HernanRobins:2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "publisher": "Chapman and Hall / CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "Causal inference: What if",
+            "title-short": "Causal inference",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1097/00001648-200009000-00011",
+            "author": [
+                {
+                    "family": "Robins",
+                    "given": "James M."
+                },
+                {
+                    "dropping-particle": "Ángel",
+                    "family": "Hernán",
+                    "given": "Miguel"
+                },
+                {
+                    "family": "Brumback",
+                    "given": "Babette"
+                }
+            ],
+            "container-title": "Epidemiology",
+            "id": "RobinsHernanBrumback:2000",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000,
+                        9
+                    ]
+                ]
+            },
+            "page": "550-560",
+            "title": "Marginal structural models and causal inference in epidemiology",
+            "type": "article-journal",
+            "volume": "11"
+        },
+        {
+            "DOI": "10.1177/2167696815621645",
+            "author": [
+                {
+                    "family": "Thoemmes",
+                    "given": "Felix"
+                },
+                {
+                    "family": "Ong",
+                    "given": "Anthony D."
+                }
+            ],
+            "container-title": "Emerging Adulthood",
+            "id": "ThoemmesOng:2016",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        2
+                    ]
+                ]
+            },
+            "page": "40-59",
+            "title": "A primer on inverse probability of treatment weighting and marginal structural models",
+            "type": "article-journal",
+            "volume": "4"
+        },
+        {
+            "DOI": "10.1080/01621459.2014.956872",
+            "author": [
+                {
+                    "family": "Imai",
+                    "given": "Kosuke"
+                },
+                {
+                    "family": "Ratkovic",
+                    "given": "Marc"
+                }
+            ],
+            "container-title": "Journal of the American Statistical Association",
+            "id": "ImaiRatkovic:2015",
+            "issue": "511",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        9
+                    ]
+                ]
+            },
+            "page": "1013-1023",
+            "title": "Robust estimation of inverse probability weights for marginal structural models",
+            "type": "article-journal",
+            "volume": "110"
+        },
+        {
+            "DOI": "10.1093/aje/kwn164",
+            "author": [
+                {
+                    "family": "Cole",
+                    "given": "Stephen R."
+                },
+                {
+                    "family": "Hernán",
+                    "given": "Miguel A."
+                }
+            ],
+            "container-title": "American Journal of Epidemiology",
+            "id": "ColeHernan:2008",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008,
+                        9
+                    ]
+                ]
+            },
+            "page": "656-664",
+            "title": "Constructing inverse probability weights for marginal structural models",
+            "type": "article-journal",
+            "volume": "168"
+        },
+        {
+            "DOI": "10.1097/eDe.0000000000000053",
+            "author": [
+                {
+                    "family": "Naimi",
+                    "given": "Ashley I."
+                },
+                {
+                    "family": "Moodie",
+                    "given": "Erica E. M."
+                },
+                {
+                    "family": "Auger",
+                    "given": "Nathalie"
+                },
+                {
+                    "family": "Kaufman",
+                    "given": "Jay S."
+                }
+            ],
+            "container-title": "Epidemiology",
+            "id": "NaimiMoodieAuger:2014",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014,
+                        3
+                    ]
+                ]
+            },
+            "page": "292-299",
+            "title": "Constructing inverse probability weights for continuous exposures; a comparison of methods",
+            "type": "article-journal",
+            "volume": "25"
+        },
+        {
+            "DOI": "10.1017/s0003055418000357",
+            "author": [
+                {
+                    "family": "Blackwell",
+                    "given": "Matthew"
+                },
+                {
+                    "family": "Glynn",
+                    "given": "Adam N."
+                }
+            ],
+            "container-title": "American Political Science Review",
+            "id": "BlackwellGlynn:2018",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        8
+                    ]
+                ]
+            },
+            "page": "1067-82",
+            "title": "How to make causal inferences with time-series cross-sectional data under selection on observables",
+            "type": "article-journal",
+            "volume": "112"
+        }
+    ],
+    "project_biblios": [
+        "files/bib/references.bib"
+    ]
+}

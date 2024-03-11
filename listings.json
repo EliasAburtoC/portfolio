@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2024/01/30/maps-r/index.html",
+      "/blog/2024/01/15/index.html",
+      "/blog/2023/09/18/webscraping_gptw/index.html",
+      "/blog/2023/08/15/lineal-regression/index.html"
+    ]
+  },
+  {
+    "listing": "/atom.html",
+    "items": [
+      "/blog/2024/01/30/maps-r/index.html",
+      "/blog/2024/01/15/index.html",
+      "/blog/2023/09/18/webscraping_gptw/index.html",
+      "/blog/2023/08/15/lineal-regression/index.html"
+    ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/articles/agentbased-aburto-2023/index.html",
+      "/research/articles/plssem-aburto-2023/index.html"
+    ]
+  }
+]
