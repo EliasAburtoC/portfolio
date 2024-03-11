@@ -1,0 +1,42 @@
+---
+title: "Welcome to my website!"
+pagetitle: "Elías Aburto"
+main-photo: /files/profiles/elias-aburto-2021.jpg
+main-photo-square: /files/profiles/elias-aburto-2021-square.jpg
+title-block-banner: "#CF4446"
+format:
+  html:
+    quarto-template-params:
+      banner-header-class: "home"
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-sm-4}
+
+```{=html}
+<div class="grid" style="--bs-columns: 5; row-gap: 0;">
+  <div class="g-col-1 g-col-sm-0"></div>
+  <div class="g-col-3 g-col-sm-5">
+    <picture>
+      <source media="(max-width: 576px)" srcset="{{< meta main-photo-square >}}">
+      <source media="(min-width: 576px)" srcset="{{< meta main-photo >}}">
+      <img class="img-fluid" src="{{< meta main-photo >}}" alt="{{< meta author-meta >}}">
+    </picture>
+  </div>
+  <div class="g-col-1 g-col-sm-0"></div>
+</div>
+```
+
+:::
+
+::: {.g-col-12 .g-col-sm-8}
+
+I'm an research assistant at the [University of the Pacific’s Research Center (CIUP)](https://ciup.up.edu.pe/). I'm a student of the Specialization Diploma in Data Science for Social Sciences and Management of the [Pontifical Catholic University of Peru (PUCP)](https://www.pucp.edu.pe/). I hold a Bachelor’s degree in [Organizational and Human Management Psychology from the National University of San Marcos (UNMSM)](https://www.unmsm.edu.pe/) in 2022.
+
+I'm a member of [Avances en Medición Psicológica (AMP)](https://www.facebook.com/amp.unmsm), a group of students interested in quantitative research and psychological measurement. Also, member of BehData, a group of professionals interested in behavioral data science.
+
+
+:::
+
+:::

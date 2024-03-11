@@ -1,0 +1,67 @@
+---
+title: "Earned Value Management Agent-Based Simulation Model"
+date: 2023-02-07
+author:
+  - name: Manuel Castañón-Puga
+    orcid: 0000-0003-2890-512X
+    affiliation: School of Chemistry and Engineering, Universidad Autónoma de Baja California
+  - name: Ricardo Fernando Rosales-Cisneros
+    orcid: 0000-0002-0266-2951
+    affiliation: Research Center of Complexity Studies, School of Accounting and Administration, Universidad Autónoma de Baja California
+  - name: Julio C. Acosta-Prado
+    orcid: 0000-0002-7920-9602
+    affiliation: School of Business Science, Universidad del Pacífico
+  - name: Alfredo Tirado-Ramos
+    orcid: 0000-0002-2701-7588
+    affiliation: Department of Epidemiology, Geisel School of Medicine at Dartmouth, Dartmouth College
+  - name: Camilo Khatchikian
+    orcid: 0000-0002-4283-7373
+    affiliation: Department of Biomedical Data Science, Geisel School of Medicine at Dartmouth, Dartmouth College
+  - name: Elías Aburto-Camacllanqui
+    orcid: 0000-0001-9366-4639
+    affiliation: Research Center, Universidad del Pacífico
+categories:
+  - agile development
+  - earned value management
+  - task board
+  - agent-based simulation
+
+pub-info:
+  
+  reference: >-
+    Manuel Castañón-Puga, Ricardo Fernando Rosales-Cisneros, Julio C. Acosta-Prado, Alfredo Tirado-Ramos, Camilo Khatchikian, and <strong>Elías Aburto-Camacllanqui</strong>, “Earned Value Management Agent-Based Simulation Model</em> 11, no. 2 (2023):86, doi: <a href="https://doi.org/10.3390/systems11020086"><code>10.3390/systems11020086</code></a>
+  links:
+  - name: Final version
+    url: https://doi.org/10.3390/systems11020086
+    icon: fa-solid fa-scroll
+  - name: Add to Zotero
+    url: https://www.zotero.org/save?type=doi&q=10.3390/systems11020086
+    icon: ai ai-zotero
+doi: 10.3390/systems11020086
+
+---
+
+
+## Abstract
+
+Agile project management (APM) can be defined as an iterative approach that promotes satisfying customer requirements, adjusts to change, and develops a working product in rapidly changing environments. Managers usually apply agile management as the project management approach in projects requiring extraordinary speed and flexibility in their processes. Earned value management (EVM) is a fundamental part of project management to establish practical measures. Often, managers use a task board to visually represent the work on a project and the path to completion. Still, managing an agile project can be a challenging endeavor. In this paper, we propose an agent-based model describing the management of tasks within a project using earned value assessment and a task board. Our model illustrates how EVM yields an efficient method to measure a project’s performance by comparing actual progress against planned activities, thus facilitating the formulation of more accurate predicted estimations. As proof of concept, we leverage our implementation to calculate EVM performance indexes according to a performance measurement baseline (PMB) in a task board fashion.
+
+
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.3390/systems11020086">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{CastanonEtAl:2023,
+    Author = {Manuel Castañón-Puga, Ricardo Fernando Rosales-Cisneros, Julio C. Acosta-Prado, Alfredo Tirado-Ramos, Camilo Khatchikian, and Elías Aburto-Camacllanqui},
+    Doi = {10.4067/S0718-50062023000300031},
+    Journal = {Systems},
+    Number = {2},
+    Pages = {86},
+    Title = {Earned Value Management Agent-Based Simulation Model},
+    Volume = {11},
+    Year = {2023}}
+```

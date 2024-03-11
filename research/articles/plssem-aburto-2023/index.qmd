@@ -1,0 +1,59 @@
+---
+title: "Entrepreneurial intention in master of business administration students at Colombian universities: the moderating role of perceived behavioral control"
+date: 2023-01-05
+author:
+  - name: Julio C. Acosta-Prado
+    orcid: 0000-0002-7920-9602
+    affiliation: Faculty of Business Sciences, University of the Pacific
+  - name: Rodrigo A. Zárate-Torres
+    orcid: 0000-0002-9618-1752
+    affiliation: College of Higher Studies of Administration
+  - name: Elías Aburto-Camacllanqui
+    orcid: 0000-0001-9366-4639
+    affiliation: Research Center, University of the Pacific
+categories:
+  - entrepreneurial intention
+  - perceived behavioral control
+  - master of business administration
+  - MBA students
+  - theory of planned behavior
+
+pub-info:
+  reference: >-
+    Julio C. Acosta-Prado, Rodrigo A. Zárate-Torres, and <strong>Elías Aburto-Camacllanqui</strong>, “La intención emprendedora en estudiantes de maestría en administración de empresas de universidades colombianas: el rol moderador del control del comportamiento percibido</em> 16, no. 3 (2023):31–40, doi: <a href="http://dx.doi.org/10.4067/S0718-50062023000300031"><code>10.4067/S0718-50062023000300031</code></a>
+  links:
+  - name: Final version
+    url: http://dx.doi.org/10.4067/S0718-50062023000300031
+    icon: fa-solid fa-scroll
+  - name: Add to Zotero
+    url: https://www.zotero.org/save?type=doi&q=10.4067/S0718-50062023000300031
+    icon: ai ai-zotero
+doi: 10.4067/S0718-50062023000300031
+---
+
+
+## Abstract
+
+The main objective of this research study is to determine whether perceived behavioral control has a
+moderating role in the influence of attitude toward entrepreneurship and subjective norms on entrepreneurial intention. The sample consists of 159 master of business administration (MBA) students from four Colombian universities. The methodological design is cross-sectional and explanatory and applies the partial least squares structural equation modeling (PLS-SEM). The results show that there is no evidence to suggest that perceived behavioral control moderates the relationship between attitude toward entrepreneurship and entrepreneurial intention. In addition, there is no evidence to infer that perceived behavioral control moderates the relationship between subjective norms and entrepreneurial intention. In conclusion, the current model of the theory of planned behavior provides no empirical support for explaining the entrepreneurial intention of
+MBA students from four different Colombian universities.
+
+
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.4067/S0718-50062023000300031">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{AcostaEtAl:2023,
+    Author = {Julio C. Acosta-Prado, Rodrigo A. Zárate-Torres, and Elías Aburto-Camacllanqui},
+    Doi = {10.4067/S0718-50062023000300031},
+    Journal = {Formación Universitaria},
+    Number = {3},
+    Pages = {31--40},
+    Title = {La intención emprendedora en estudiantes de maestría en administración de empresas de                universidades colombianas: el rol moderador del control del comportamiento percibido},
+    Volume = {16},
+    Year = {2023}}
+```
