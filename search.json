@@ -116,7 +116,7 @@
     "href": "blog/index.html#section",
     "title": "Blog",
     "section": "2024",
-    "text": "2024\n\n\n    \n    \n                  \n            January 30, 2024\n        \n        \n            Organizational Behavior: Geographic Distribution of Agricultural Units in Peru\n\n            \n            \n                \n                \n                    maps\n                \n                \n                \n                    r\n                \n                \n                \n                    INEI\n                \n                \n                \n                    agricultural\n                \n                \n            \n            \n\n            I conducted a comprehensive descriptive analysis using maps in RStudio, leveraging data from the 2019 National Agricultural Survey (ENA). The dataset was sourced from the National Institute of Statistics and Informatics (INEI) repository, providing a rich foundation for insightful spatial exploration and visualization.\n            \n            \n        \n        \n        \n            \n\n        \n    \n    \n    \n                  \n            January 15, 2024\n        \n        \n            Consumer Behavior: status and factors associated with noncommunicable diseases in Peruvian consumers\n\n            \n            \n                \n                \n                    postgreSQL\n                \n                \n                \n                    INEI\n                \n                \n            \n            \n\n            I analize data to understand the status and factors associated with noncommunicable diseases in Peruvian consumers from INEI using PostgreSQL by pgAdmin 4 tool.\n            \n            \n        \n        \n        \n            \n\n        \n    \n    \n\n\nNo matching items"
+    "text": "2024\n\n\n    \n    \n                  \n            September 20, 2024\n        \n        \n            Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning\n\n            \n            \n                \n                \n                    Resident-Intruder Paradigm\n                \n                \n                \n                    Automatic Classification\n                \n                \n                \n                    Deep Learning\n                \n                \n                \n                    Google Colab\n                \n                \n                \n                    Python\n                \n                \n            \n            \n\n            I trained a deep learning model using the dataset of Mice Movements (Sun et al., 2021), which was published in an open source repository.\n            \n            \n        \n        \n        \n            \n\n        \n    \n    \n    \n                  \n            January 30, 2024\n        \n        \n            Organizational Behavior: Geographic Distribution of Agricultural Units in Peru\n\n            \n            \n                \n                \n                    maps\n                \n                \n                \n                    r\n                \n                \n                \n                    INEI\n                \n                \n                \n                    agricultural\n                \n                \n            \n            \n\n            I conducted a comprehensive descriptive analysis using maps in RStudio, leveraging data from the 2019 National Agricultural Survey (ENA). The dataset was sourced from the National Institute of Statistics and Informatics (INEI) repository, providing a rich foundation for insightful spatial exploration and visualization.\n            \n            \n        \n        \n        \n            \n\n        \n    \n    \n    \n                  \n            January 15, 2024\n        \n        \n            Consumer Behavior: status and factors associated with noncommunicable diseases in Peruvian consumers\n\n            \n            \n                \n                \n                    postgreSQL\n                \n                \n                \n                    INEI\n                \n                \n            \n            \n\n            I analize data to understand the status and factors associated with noncommunicable diseases in Peruvian consumers from INEI using PostgreSQL by pgAdmin 4 tool.\n            \n            \n        \n        \n        \n            \n\n        \n    \n    \n\n\nNo matching items"
   },
   {
     "objectID": "blog/index.html#section-1",
@@ -130,7 +130,7 @@
     "href": "index.html",
     "title": "Welcome to my website!",
     "section": "",
-    "text": "I’m a research assistant at the University of the Pacific’s Research Center (CIUP). I’m a student of the Specialization Diploma in Data Science for Social Sciences and Management of the Pontifical Catholic University of Peru (PUCP). I hold a Bachelor’s degree in Organizational and Human Management Psychology from the National University of San Marcos (UNMSM) in 2022.\nI’m a member of BehData, a group of professionals interested in behavioral data science. Also, I’m a former member of Avances en Medición Psicológica (AMP), a group of students interested in quantitative research and psychological measurement."
+    "text": "I’m a research assistant at the University of the Pacific’s Research Center (CIUP). I hold a Specialization Diploma in Data Science for Social Sciences and Management of the Pontifical Catholic University of Peru (PUCP). I hold a Bachelor’s degree in Organizational and Human Management Psychology from the National University of San Marcos (UNMSM) in 2022.\nI’m a member of BehData, a group of professionals interested in behavioral data science. Also, I’m a former member of Avances en Medición Psicológica (AMP), a group of students interested in quantitative research and psychological measurement."
   },
   {
     "objectID": "research/articles/plssem-aburto-2023/index.html",
@@ -152,5 +152,159 @@
     "title": "Entrepreneurial intention in master of business administration students at Colombian universities: the moderating role of perceived behavioral control",
     "section": "Citation",
     "text": "Citation\n\n Add to Zotero \n\n@article{AcostaEtAl:2023,\n    Author = {Julio C. Acosta-Prado, Rodrigo A. Zárate-Torres, and Elías Aburto-Camacllanqui},\n    Doi = {10.4067/S0718-50062023000300031},\n    Journal = {Formación Universitaria},\n    Number = {3},\n    Pages = {31--40},\n    Title = {La intención emprendedora en estudiantes de maestría en administración de empresas de                universidades colombianas: el rol moderador del control del comportamiento percibido},\n    Volume = {16},\n    Year = {2023}}"
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index.html",
+    "href": "blog/2024/09/20/DeepLearning/index.html",
+    "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "",
+    "text": "Social behaviors which provoke territorial agression (Thurmond, 1975).\nExperiment:\n\nA resident mouse is put in a cage for 24 hours.\nThen, an intruder mouse enters the cage.\nA camera records the secuence of behaviors that provoce agression.\nAt the end, researchers manually label the observed behaviors in the video to identify patterns of behavior.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReplicability Crisis: The observations can vary between researchers, which affect the replicability of studies.\nFatigue and Error: The process demands time and effort, which can provoke errors."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index.html#resident-intruder-paradigm",
+    "href": "blog/2024/09/20/DeepLearning/index.html#resident-intruder-paradigm",
+    "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "",
+    "text": "Social behaviors which provoke territorial agression (Thurmond, 1975).\nExperiment:\n\nA resident mouse is put in a cage for 24 hours.\nThen, an intruder mouse enters the cage.\nA camera records the secuence of behaviors that provoce agression.\nAt the end, researchers manually label the observed behaviors in the video to identify patterns of behavior."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index_otro.html",
+    "href": "blog/2024/09/20/DeepLearning/index_otro.html",
+    "title": "Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "",
+    "text": "Social behaviors which provoke territorial agression (Thurmond, 1975).\nExperiment:\n\nA resident mouse is put in a cage for 24 hours.\nThen, an intruder mouse enters the cage.\nA camera records the secuence of behaviors that provoce agression.\nAt the end, researchers manually label the observed behaviors in the video to identify patterns of behavior.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReplicability Crisis: The observations can vary between researchers, which affect the replicability of studies.\nFatigue and Error: The process demands time and effort, which can provoke errors."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index_otro.html#resident-intruder-paradigm",
+    "href": "blog/2024/09/20/DeepLearning/index_otro.html#resident-intruder-paradigm",
+    "title": "Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "",
+    "text": "Social behaviors which provoke territorial agression (Thurmond, 1975).\nExperiment:\n\nA resident mouse is put in a cage for 24 hours.\nThen, an intruder mouse enters the cage.\nA camera records the secuence of behaviors that provoce agression.\nAt the end, researchers manually label the observed behaviors in the video to identify patterns of behavior."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index_otro.html#problems",
+    "href": "blog/2024/09/20/DeepLearning/index_otro.html#problems",
+    "title": "Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "",
+    "text": "Replicability Crisis: The observations can vary between researchers, which affect the replicability of studies.\nFatigue and Error: The process demands time and effort, which can provoke errors."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index_otro.html#theoretical-justification",
+    "href": "blog/2024/09/20/DeepLearning/index_otro.html#theoretical-justification",
+    "title": "Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "Theoretical Justification",
+    "text": "Theoretical Justification\n\n\n\n\n\n\n\n\n\nProblem: The observations can vary between researchers, which affect the replicability of studies.\n\n\n\n\n\n\n\nThe classification model drives more objective, precise, and scalable measurements compare to manual labeling. Therefore, it increase the quality of social research."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index_otro.html#practical-justification",
+    "href": "blog/2024/09/20/DeepLearning/index_otro.html#practical-justification",
+    "title": "Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "Practical Justification",
+    "text": "Practical Justification\n\n\n\n\n\n\n\n\n\nProblem: The process demands time and effort, which can provoke errors.\n\n\n\n\n\n\n\nThe automatic classification model streamlines the research process in research centers making researchers more productive."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index_otro.html#main-objective",
+    "href": "blog/2024/09/20/DeepLearning/index_otro.html#main-objective",
+    "title": "Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "Main Objective",
+    "text": "Main Objective\n\n\nDevelop an automatic classification model for the monitoring and analysis of animal behavior in research environments."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index_otro.html#data",
+    "href": "blog/2024/09/20/DeepLearning/index_otro.html#data",
+    "title": "Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "Data",
+    "text": "Data\n\nToolChallengeTask\n\n\n\nMARS: A tool for capturing the positions of mice using deep learning (Segalin et al, 2021).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaltech Data published the dataset which contains positions and labels."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index_otro.html#exploratory-data-analysis",
+    "href": "blog/2024/09/20/DeepLearning/index_otro.html#exploratory-data-analysis",
+    "title": "Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "Exploratory Data Analysis",
+    "text": "Exploratory Data Analysis\n\nSequenceVisualitationF / sequenceF / Dataset\n\n\n\nEach sequence corresponds to a particular experiment involving a resident mouse (0) and an intruder mouse (1).\n\n\n\n\n\n\n\n\n\n\n\nEach sequence has a different number of frames.\n\n\n\n\n\n\n\n\n\n\n\n\nPercentaje of frames per class in the whole dataset."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index_otro.html#preprocessing",
+    "href": "blog/2024/09/20/DeepLearning/index_otro.html#preprocessing",
+    "title": "Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "Preprocessing",
+    "text": "Preprocessing\n\nLoading dataPadding data"
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index_otro.html#training",
+    "href": "blog/2024/09/20/DeepLearning/index_otro.html#training",
+    "title": "Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "Training",
+    "text": "Training\n\nLoss functionModel StructureTraining\n\n\n\n\nSparse Categorical Cross Entropy is appropriate for multi-class classification problems."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index_otro.html#evaluation",
+    "href": "blog/2024/09/20/DeepLearning/index_otro.html#evaluation",
+    "title": "Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "Evaluation",
+    "text": "Evaluation\n\nModel AccuracyModel LossTest Accuracy"
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index_otro.html#expected-impact-1",
+    "href": "blog/2024/09/20/DeepLearning/index_otro.html#expected-impact-1",
+    "title": "Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "Expected Impact",
+    "text": "Expected Impact\n\n\n\n\n\n\n\n\n\nAdvances in Scientific Research:\n\nSignificantly reduces time and errors in the process.\nImproves the precision and consistency of the results.\nOptimizes the replicability of studies by minimizing variance between observers.\n\n\n\n\n\n\n\n\nPractical Application:\n\nCan be expanded to identify social human behaviors, such as harassment and bullying.\nCould help address security issues in schools and businesses by identifying dangerous behaviors automatically.\nCould aid in the care of animals during their development."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index.html#problems",
+    "href": "blog/2024/09/20/DeepLearning/index.html#problems",
+    "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "",
+    "text": "Replicability Crisis: The observations can vary between researchers, which affect the replicability of studies.\nFatigue and Error: The process demands time and effort, which can provoke errors."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index.html#theoretical-justification",
+    "href": "blog/2024/09/20/DeepLearning/index.html#theoretical-justification",
+    "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "Theoretical Justification",
+    "text": "Theoretical Justification\n\n\n\n\n\n\n\n\n\nProblem: The observations can vary between researchers, which affect the replicability of studies.\n\n\n\n\n\n\n\nThe classification model drives more objective, precise, and scalable measurements compare to manual labeling. Therefore, it increase the quality of social research."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index.html#practical-justification",
+    "href": "blog/2024/09/20/DeepLearning/index.html#practical-justification",
+    "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "Practical Justification",
+    "text": "Practical Justification\n\n\n\n\n\n\n\n\n\nProblem: The process demands time and effort, which can provoke errors.\n\n\n\n\n\n\n\nThe automatic classification model streamlines the research process in research centers making researchers more productive."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index.html#data",
+    "href": "blog/2024/09/20/DeepLearning/index.html#data",
+    "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "Data",
+    "text": "Data\n\nToolChallengeTask\n\n\n\nMARS: A tool for capturing the positions of mice using deep learning (Segalin et al, 2021).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaltech Data published the dataset which contains positions and labels."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index.html#exploratory-data-analysis",
+    "href": "blog/2024/09/20/DeepLearning/index.html#exploratory-data-analysis",
+    "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "Exploratory Data Analysis",
+    "text": "Exploratory Data Analysis\n\nSequenceVisualitationF / sequenceF / Dataset\n\n\n\nEach sequence corresponds to a particular experiment involving a resident mouse (0) and an intruder mouse (1).\n\n\n\n\n\n\n\n\n\n\n\nEach sequence has a different number of frames.\n\n\n\n\n\n\n\n\n\n\n\n\nPercentaje of frames per class in the whole dataset."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index.html#preprocessing",
+    "href": "blog/2024/09/20/DeepLearning/index.html#preprocessing",
+    "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "Preprocessing",
+    "text": "Preprocessing\n\nLoading dataPadding data"
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index.html#training",
+    "href": "blog/2024/09/20/DeepLearning/index.html#training",
+    "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "Training",
+    "text": "Training\n\nLoss functionModel StructureTraining\n\n\n\n\nSparse Categorical Cross Entropy is appropriate for multi-class classification problems."
+  },
+  {
+    "objectID": "blog/2024/09/20/DeepLearning/index.html#evaluation",
+    "href": "blog/2024/09/20/DeepLearning/index.html#evaluation",
+    "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
+    "section": "Evaluation",
+    "text": "Evaluation\n\nModel AccuracyModel LossTest Accuracy"
   }
 ]
