@@ -158,14 +158,14 @@
     "href": "blog/2024/09/20/DeepLearning/index.html",
     "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
     "section": "",
-    "text": "Social behaviors which provoke territorial agression (Thurmond, 1975).\nExperiment:\n\nA resident mouse is put in a cage for 24 hours.\nThen, an intruder mouse enters the cage.\nA camera records the secuence of behaviors that provoce agression.\nAt the end, researchers manually label the observed behaviors in the video to identify patterns of behavior.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReplicability Crisis: The observations can vary between researchers, which affect the replicability of studies.\nFatigue and Error: The process demands time and effort, which can provoke errors."
+    "text": "Social behaviors that provoke territorial aggression (Thurmond, 1975).\nExperiment:\n\nA resident mouse is placed in a cage for 24 hours.\nThen, an intruder mouse enters the cage.\nA camera records the sequence of behaviors that provoke aggression.\nAt the end, researchers manually label the observed behaviors in the video to identify behavior patterns.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReplicability Crisis: Observations may vary between researchers, affecting the replicability of studies.\nFatigue and Error: The process is time-consuming and demanding, which can lead to errors."
   },
   {
     "objectID": "blog/2024/09/20/DeepLearning/index.html#resident-intruder-paradigm",
     "href": "blog/2024/09/20/DeepLearning/index.html#resident-intruder-paradigm",
     "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
     "section": "",
-    "text": "Social behaviors which provoke territorial agression (Thurmond, 1975).\nExperiment:\n\nA resident mouse is put in a cage for 24 hours.\nThen, an intruder mouse enters the cage.\nA camera records the secuence of behaviors that provoce agression.\nAt the end, researchers manually label the observed behaviors in the video to identify patterns of behavior."
+    "text": "Social behaviors that provoke territorial aggression (Thurmond, 1975).\nExperiment:\n\nA resident mouse is placed in a cage for 24 hours.\nThen, an intruder mouse enters the cage.\nA camera records the sequence of behaviors that provoke aggression.\nAt the end, researchers manually label the observed behaviors in the video to identify behavior patterns."
   },
   {
     "objectID": "blog/2024/09/20/DeepLearning/index_otro.html",
@@ -256,35 +256,35 @@
     "href": "blog/2024/09/20/DeepLearning/index.html#problems",
     "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
     "section": "",
-    "text": "Replicability Crisis: The observations can vary between researchers, which affect the replicability of studies.\nFatigue and Error: The process demands time and effort, which can provoke errors."
+    "text": "Replicability Crisis: Observations may vary between researchers, affecting the replicability of studies.\nFatigue and Error: The process is time-consuming and demanding, which can lead to errors."
   },
   {
     "objectID": "blog/2024/09/20/DeepLearning/index.html#theoretical-justification",
     "href": "blog/2024/09/20/DeepLearning/index.html#theoretical-justification",
     "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
     "section": "Theoretical Justification",
-    "text": "Theoretical Justification\n\n\n\n\n\n\n\n\n\nProblem: The observations can vary between researchers, which affect the replicability of studies.\n\n\n\n\n\n\n\nThe classification model drives more objective, precise, and scalable measurements compare to manual labeling. Therefore, it increase the quality of social research."
+    "text": "Theoretical Justification\n\n\n\n\n\n\n\n\n\nProblem: Observations may vary between researchers, affecting the replicability of studies.\n\n\n\n\n\n\n\nThe classification model enables more objective, precise, and scalable measurements compared to manual labeling. Therefore, it increases the quality of social research."
   },
   {
     "objectID": "blog/2024/09/20/DeepLearning/index.html#practical-justification",
     "href": "blog/2024/09/20/DeepLearning/index.html#practical-justification",
     "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
     "section": "Practical Justification",
-    "text": "Practical Justification\n\n\n\n\n\n\n\n\n\nProblem: The process demands time and effort, which can provoke errors.\n\n\n\n\n\n\n\nThe automatic classification model streamlines the research process in research centers making researchers more productive."
+    "text": "Practical Justification\n\n\n\n\n\n\n\n\n\nProblem: The process is time-consuming and demanding, which can lead to errors.\n\n\n\n\n\n\n\nThe automatic classification model streamlines the research process in research centers, making researchers more productive."
   },
   {
     "objectID": "blog/2024/09/20/DeepLearning/index.html#data",
     "href": "blog/2024/09/20/DeepLearning/index.html#data",
     "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
     "section": "Data",
-    "text": "Data\n\nToolChallengeTask\n\n\n\nMARS: A tool for capturing the positions of mice using deep learning (Segalin et al, 2021).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaltech Data published the dataset which contains positions and labels."
+    "text": "Data\n\nToolChallengeTask\n\n\n\nMARS: A tool for capturing mouse positions using deep learning (Segalin et al., 2021).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaltech Data published the dataset , which contains positions and labels."
   },
   {
     "objectID": "blog/2024/09/20/DeepLearning/index.html#exploratory-data-analysis",
     "href": "blog/2024/09/20/DeepLearning/index.html#exploratory-data-analysis",
     "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
     "section": "Exploratory Data Analysis",
-    "text": "Exploratory Data Analysis\n\nSequenceVisualitationF / sequenceF / Dataset\n\n\n\nEach sequence corresponds to a particular experiment involving a resident mouse (0) and an intruder mouse (1).\n\n\n\n\n\n\n\n\n\n\n\nEach sequence has a different number of frames.\n\n\n\n\n\n\n\n\n\n\n\n\nPercentaje of frames per class in the whole dataset."
+    "text": "Exploratory Data Analysis\n\nSequenceVisualizationF / sequenceF / Dataset\n\n\n\nEach sequence corresponds to a specific experiment involving a resident mouse (0) and an intruder mouse (1).\n\n\n\n\n\n\n\n\n\n\n\nEach sequence has a different number of frames.\n\n\n\n\n\n\n\n\n\n\n\n\nPercentage of frames per class in the entire dataset."
   },
   {
     "objectID": "blog/2024/09/20/DeepLearning/index.html#preprocessing",
@@ -298,7 +298,7 @@
     "href": "blog/2024/09/20/DeepLearning/index.html#training",
     "title": "Research Methodology: Automatic Classification of Social Behaviors among Mice Using Deep Learning",
     "section": "Training",
-    "text": "Training\n\nLoss functionModel StructureTraining\n\n\n\n\nSparse Categorical Cross Entropy is appropriate for multi-class classification problems."
+    "text": "Training\n\nLoss functionModel StructureTraining\n\n\n\n\nSparse Categorical Cross-Entropy is appropriate for multi-class classification problems."
   },
   {
     "objectID": "blog/2024/09/20/DeepLearning/index.html#evaluation",
